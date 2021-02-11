@@ -1,0 +1,884 @@
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.5990000; 
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.5990000; 02.03.2020 00:09:18.8030000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.6070000; 02.03.2020 00:09:18.8110000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.6070000; 02.03.2020 00:09:18.8110000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.6090000; 02.03.2020 00:09:18.8130000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.6090000; 02.03.2020 00:09:18.8130000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.5930000; 02.03.2020 00:09:19.6570000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.5930000; 02.03.2020 00:09:19.6760000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.5930000; 02.03.2020 00:09:19.7880000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.5930000; 02.03.2020 00:09:19.8200000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.5930000; 02.03.2020 00:09:19.8360000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.5930000; 02.03.2020 00:09:19.8530000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.9850000; 02.03.2020 00:09:19.1890000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.9850000; 02.03.2020 00:09:19.1890000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.9870000; 02.03.2020 00:09:19.1910000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.9870000; 02.03.2020 00:09:19.1910000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.9890000; 02.03.2020 00:09:19.1930000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 02.03.2020 00:09:18.9890000; 02.03.2020 00:09:19.1930000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.9800000; 02.03.2020 00:09:20.1320000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.9800000; 02.03.2020 00:09:20.1450000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.9800000; 02.03.2020 00:09:20.1640000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.9800000; 02.03.2020 00:09:20.1840000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 02.03.2020 00:09:18.9800000; 02.03.2020 00:09:20.2050000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.1760000; 03.03.2020 00:15:20.3800000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.1760000; 03.03.2020 00:15:20.3800000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.1840000; 03.03.2020 00:15:20.3880000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.1840000; 03.03.2020 00:15:20.3880000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.1860000; 03.03.2020 00:15:20.3900000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.1860000; 03.03.2020 00:15:20.3900000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.1730000; 03.03.2020 00:15:21.2410000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.1730000; 03.03.2020 00:15:21.2570000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.1730000; 03.03.2020 00:15:21.3610000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.1730000; 03.03.2020 00:15:21.3770000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.1730000; 03.03.2020 00:15:21.3930000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.1730000; 03.03.2020 00:15:21.4100000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.5620000; 03.03.2020 00:15:20.7660000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.5620000; 03.03.2020 00:15:20.7660000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.5640000; 03.03.2020 00:15:20.7680000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.5640000; 03.03.2020 00:15:20.7680000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.5660000; 03.03.2020 00:15:20.7700000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 03.03.2020 00:15:20.5660000; 03.03.2020 00:15:20.7700000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.5570000; 03.03.2020 00:15:21.7050000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.5570000; 03.03.2020 00:15:21.7210000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.5570000; 03.03.2020 00:15:21.7450000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.5570000; 03.03.2020 00:15:21.7570000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 03.03.2020 00:15:20.5570000; 03.03.2020 00:15:21.7730000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:23:01.1720000; 03.03.2020 08:23:12.7080000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:28:07.4700000; 03.03.2020 08:28:13.2350000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:28:20.0480000; 03.03.2020 08:28:31.1610000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:28:40.2470000; 03.03.2020 08:28:43.9540000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:29:57.9650000; 03.03.2020 08:30:02.4940000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:31:24.2950000; 03.03.2020 08:32:42.1910000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:33:42.6070000; 03.03.2020 08:33:52.6780000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:40:26.8050000; 03.03.2020 08:40:34.4090000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:41:27.3770000; 03.03.2020 08:41:30.4800000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:43:00.6990000; 03.03.2020 08:43:27.8600000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:43:36.3460000; 03.03.2020 08:43:46.0190000
+704338; Errore alla conversione dell'utensile: allogiamento di destinazione non è idoneo; sinumerik_alarm_plc_pmc; 03.03.2020 08:44:09.1260000; 03.03.2020 08:44:21.6760000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 08:47:49.9340000; 03.03.2020 08:47:50.4250000
+14014; Canale 1: Programma selezionato X1231100 non esistente oppure in editazione; sinumerik_alarm_nck; 03.03.2020 09:53:47.3700000; 03.03.2020 09:53:49.6770000
+510217; Selezione programma canale 1: anomalia selezione programma pezzi; sinumerik_alarm_plc_pmc; 03.03.2020 09:53:47.4580000; 03.03.2020 09:53:50.5480000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 09:53:48.1160000; 03.03.2020 09:53:51.0980000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 09:59:07.9590000; 03.03.2020 09:59:13.6630000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 09:59:14.6240000; 03.03.2020 10:00:42.1650000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 10:00:43.0990000; 03.03.2020 10:00:43.8300000
+14014; Canale 1: Programma selezionato X1231100 non esistente oppure in editazione; sinumerik_alarm_nck; 03.03.2020 10:07:29.7040000; 03.03.2020 10:07:31.3340000
+510217; Selezione programma canale 1: anomalia selezione programma pezzi; sinumerik_alarm_plc_pmc; 03.03.2020 10:07:29.8960000; 03.03.2020 10:07:32.3890000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 10:07:30.4140000; 03.03.2020 10:07:32.3590000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 10:16:01.3190000; 03.03.2020 10:16:11.9390000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 10:16:01.4830000; 03.03.2020 10:16:19.8550000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 10:16:01.8740000; 03.03.2020 10:16:19.7130000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 10:31:00.3520000; 03.03.2020 10:31:08.1200000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 10:31:00.4460000; 03.03.2020 10:31:17.7760000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 10:31:00.9720000; 03.03.2020 10:31:18.0170000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 10:49:34.8720000; 03.03.2020 10:49:45.3230000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 10:49:34.9960000; 03.03.2020 10:49:53.9830000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 10:49:35.4850000; 03.03.2020 10:49:53.9250000
+12080; Canale 1: Blocco 446: errore di sintassi nel testo EOL; sinumerik_alarm_nck; 03.03.2020 11:08:52.9540000; 03.03.2020 11:10:14.4740000
+67304; Asse Z in zona ingombro da caricatore UT (Z_TCH_POS_GRP_..  HSK(45.0/65.0 mm) ==>> canale 3 blocco N700485; sinumerik_alarm_nck; 03.03.2020 11:15:12.2470000; 03.03.2020 11:16:25.7100000
+511303; Allarme SET da canale NC 3 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 11:15:12.3420000; 03.03.2020 11:16:25.5150000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 11:15:13.1780000; 03.03.2020 11:16:25.4860000
+67322; Caricatore utensile: asse E non in posizione di cambio utensile pinza nuova > mandrino  ==>> canale 3 set N700490; sinumerik_alarm_nck; 03.03.2020 11:16:28.3780000; 03.03.2020 11:16:34.6290000
+511303; Allarme SET da canale NC 3 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 11:16:28.4270000; 03.03.2020 11:16:35.2650000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 11:16:29.1280000; 03.03.2020 11:16:35.8600000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 11:30:49.8430000; 03.03.2020 11:31:12.9350000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 11:30:49.9010000; 03.03.2020 11:31:00.0020000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 11:30:50.4920000; 03.03.2020 11:31:00.3400000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 11:59:32.2170000; 03.03.2020 11:59:39.4850000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 11:59:32.3760000; 03.03.2020 11:59:40.0120000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 11:59:32.8650000; 03.03.2020 11:59:40.0150000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 03.03.2020 12:08:28.0750000; 03.03.2020 12:08:35.6160000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 12:08:28.2710000; 03.03.2020 12:08:36.9530000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 12:08:28.7910000; 03.03.2020 12:08:36.8150000
+10621; Canale 1: L'asse Z_1_ è sul finecorsa software  ; sinumerik_alarm_nck; 03.03.2020 12:12:15.2780000; 03.03.2020 12:17:07.4790000
+10621; Canale 1: L'asse Z_1_ è sul finecorsa software  ; sinumerik_alarm_nck; 03.03.2020 12:17:10.8800000; 03.03.2020 12:17:12.0440000
+16927; Canale 3: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 13:39:27.3190000; 03.03.2020 13:41:48.9870000
+66011; Selezione utensile: utensile selezionato 47210 manca o è bloccato  ==>>  canale 1 set N26600; sinumerik_alarm_nck; 03.03.2020 13:47:37.8420000; 03.03.2020 13:47:46.6720000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 13:47:37.9960000; 03.03.2020 13:48:22.3250000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 13:47:38.4900000; 03.03.2020 13:48:22.4800000
+66011; Selezione utensile: utensile selezionato 47210 manca o è bloccato  ==>>  canale 1 set N26600; sinumerik_alarm_nck; 03.03.2020 14:02:25.7130000; 03.03.2020 14:02:29.2790000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 14:02:25.9380000; 03.03.2020 14:02:29.6690000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:02:26.2940000; 03.03.2020 14:02:29.6060000
+66011; Selezione utensile: utensile selezionato 47210 manca o è bloccato  ==>>  canale 1 set N26600; sinumerik_alarm_nck; 03.03.2020 14:04:52.1380000; 03.03.2020 14:05:07.2570000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 14:04:52.1920000; 03.03.2020 14:05:07.8620000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:04:52.7490000; 03.03.2020 14:05:07.7960000
+65561; [G_TOOL_CHECK] Canale 1 Blocco N300 Lunghezza utensile tagliente 2 fuori tolleranza; sinumerik_alarm_nck; 03.03.2020 14:06:50.4590000; 03.03.2020 14:07:11.5290000
+16906; Canale 1: Influenza sul programma: azione 'Avviare l'elaborazione selezionata' interrotta a causa di un allarme; sinumerik_alarm_nck; 03.03.2020 14:06:50.5140000; 03.03.2020 14:07:11.5290000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 14:06:50.6420000; 03.03.2020 14:07:12.3010000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:06:53.0990000; 03.03.2020 14:07:12.2750000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 03.03.2020 14:08:11.2200000; 03.03.2020 14:08:16.7860000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:08:12.5340000; 03.03.2020 14:08:16.8690000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 03.03.2020 14:08:17.6330000; 03.03.2020 14:08:18.4760000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:08:19.2810000; 03.03.2020 14:08:19.3790000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:08:19.2810000; 03.03.2020 14:08:19.3800000
+703736; Riparo di carico: è presente un'anomalia nel convertitore --> vedi immagine diagnostica S120; sinumerik_alarm_plc_pmc; 03.03.2020 14:21:57.3440000; 03.03.2020 14:22:04.3430000
+703736; Riparo di carico: è presente un'anomalia nel convertitore --> vedi immagine diagnostica S120; sinumerik_alarm_plc_pmc; 03.03.2020 14:22:06.1950000; 03.03.2020 14:22:08.2580000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 14:25:50.9810000; 03.03.2020 14:26:15.3280000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 14:25:51.1730000; 03.03.2020 14:25:57.5560000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:25:51.6960000; 03.03.2020 14:25:57.5660000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 14:30:18.7940000; 03.03.2020 14:30:24.9270000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 14:30:18.9920000; 03.03.2020 14:30:32.3780000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 14:30:19.5450000; 03.03.2020 14:30:32.2390000
+14080; Canale 1: Blocco 95: destinazione del salto T_47192 non trovata; sinumerik_alarm_nck; 03.03.2020 14:47:22.3370000; 03.03.2020 14:47:29.9300000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 03.03.2020 15:19:13.7710000; 03.03.2020 15:19:23.9460000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 15:19:13.8290000; 03.03.2020 15:19:38.3840000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 15:19:14.5420000; 03.03.2020 15:19:38.2520000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 15:50:58.5690000; 03.03.2020 15:51:11.9860000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 15:50:58.6290000; 03.03.2020 15:52:49.1100000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 15:50:59.5960000; 03.03.2020 15:52:49.3370000
+65561; [G_TOOL_CHECK] Canale 1 Blocco N300 Lunghezza utensile tagliente 2 fuori tolleranza; sinumerik_alarm_nck; 03.03.2020 15:55:00.5900000; 03.03.2020 15:55:18.9760000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 15:55:00.7040000; 03.03.2020 15:55:19.4750000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 15:55:01.1990000; 03.03.2020 15:55:19.5440000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 03.03.2020 16:01:32.5320000; 03.03.2020 16:01:41.6480000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 16:01:32.6240000; 03.03.2020 16:01:41.9000000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 16:01:33.1530000; 03.03.2020 16:01:41.9360000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 03.03.2020 16:13:58.3080000; 03.03.2020 16:14:08.8690000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 03.03.2020 16:13:58.5050000; 03.03.2020 16:14:13.5800000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 03.03.2020 16:13:59.0950000; 03.03.2020 16:14:13.5000000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 16:24:13.5140000; 03.03.2020 16:24:14.5210000
+700200; Pneumatica: pressostato superamento della pressione (=120FC-BP1:2) manca; sinumerik_alarm_plc_pmc; 03.03.2020 16:27:32.6250000; 03.03.2020 16:30:04.9660000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 16:53:31.1150000; 03.03.2020 16:54:11.0740000
+16927; Canale 1: Azione 'Cambio al modo operativo di programma' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 03.03.2020 17:00:20.3940000; 03.03.2020 17:00:20.6510000
+705232; Ricerca di un posto libero: applicazione nessuna risposta, errore timeout; sinumerik_alarm_plc_pmc; 03.03.2020 17:11:03.7960000; 03.03.2020 17:13:48.8050000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:13.7920000; 04.03.2020 00:20:13.9960000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:13.7920000; 04.03.2020 00:20:13.9960000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:13.8000000; 04.03.2020 00:20:14.0040000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:13.8000000; 04.03.2020 00:20:14.0040000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:13.8020000; 04.03.2020 00:20:14.0060000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:13.8020000; 04.03.2020 00:20:14.0060000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:13.7900000; 04.03.2020 00:20:14.8500000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:13.7900000; 04.03.2020 00:20:14.8700000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:13.7890000; 04.03.2020 00:20:14.9660000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:13.7890000; 04.03.2020 00:20:14.9820000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:13.7890000; 04.03.2020 00:20:14.9980000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:13.7890000; 04.03.2020 00:20:15.0140000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:14.1780000; 04.03.2020 00:20:14.3820000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:14.1780000; 04.03.2020 00:20:14.3820000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:14.1800000; 04.03.2020 00:20:14.3840000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:14.1800000; 04.03.2020 00:20:14.3840000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:14.1820000; 04.03.2020 00:20:14.3860000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 04.03.2020 00:20:14.1820000; 04.03.2020 00:20:14.3860000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:14.1730000; 04.03.2020 00:20:15.3100000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:14.1730000; 04.03.2020 00:20:15.3260000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:14.1730000; 04.03.2020 00:20:15.3420000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:14.1730000; 04.03.2020 00:20:15.3620000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 04.03.2020 00:20:14.1730000; 04.03.2020 00:20:15.3820000
+14014; Canale 1: Programma selezionato 05- non esistente oppure in editazione; sinumerik_alarm_nck; 04.03.2020 09:43:13.4790000; 04.03.2020 09:52:02.3500000
+510217; Selezione programma canale 1: anomalia selezione programma pezzi; sinumerik_alarm_plc_pmc; 04.03.2020 09:43:13.6360000; 04.03.2020 09:52:03.2540000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 09:43:14.0530000; 04.03.2020 09:52:03.2520000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 04.03.2020 10:16:12.1670000; 04.03.2020 10:16:18.7150000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 04.03.2020 10:16:12.2910000; 04.03.2020 10:16:30.1890000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 10:16:13.7600000; 04.03.2020 10:16:30.1390000
+551307; Asse A_Master: sovvracaricato (Md> momento di soglia Mdx Sinamics p2194); sinumerik_alarm_plc_pmc; 04.03.2020 11:09:55.7630000; 04.03.2020 11:10:45.2210000
+703321; Pezzo RTB non serrato, se utensile in uso; sinumerik_alarm_plc_pmc; 04.03.2020 11:09:55.8670000; 04.03.2020 11:10:45.1090000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 11:09:56.3260000; 04.03.2020 11:10:45.7920000
+700124; Grob-Dämon: anomalia della funzione di ServiceLog. Eventualmente nessun accesso al supporto informatico.; sinumerik_alarm_plc_pmc; 04.03.2020 11:09:58.8620000; 04.03.2020 11:10:45.0370000
+551307; Asse A_Master: sovvracaricato (Md> momento di soglia Mdx Sinamics p2194); sinumerik_alarm_plc_pmc; 04.03.2020 11:14:06.9340000; 04.03.2020 11:14:21.1910000
+703321; Pezzo RTB non serrato, se utensile in uso; sinumerik_alarm_plc_pmc; 04.03.2020 11:14:07.0380000; 04.03.2020 11:14:21.0830000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 11:14:07.5540000; 04.03.2020 11:14:21.0540000
+700124; Grob-Dämon: anomalia della funzione di ServiceLog. Eventualmente nessun accesso al supporto informatico.; sinumerik_alarm_plc_pmc; 04.03.2020 11:14:09.8220000; 04.03.2020 11:14:21.2280000
+12550; Canale 1: Blocco 681: nome ORIGINEGR_0_180G0 sconosciuto oppure non definito; sinumerik_alarm_nck; 04.03.2020 11:22:55.9410000; 04.03.2020 11:23:20.3330000
+22069; Canale 1: Blocco N25100 correzione del raggio utensile: non c'è alcun utensile disponibile nel gruppo utensili 5394, programma /_N_CMA_DIR/_N_G_TM_T_SUBSTITU; sinumerik_alarm_nck; 04.03.2020 11:34:52.1650000; 04.03.2020 11:35:09.9930000
+22069; Canale 1: Blocco N25100 correzione del raggio utensile: non c'è alcun utensile disponibile nel gruppo utensili 5394, programma /_N_CMA_DIR/_N_G_TM_T_SUBSTITU; sinumerik_alarm_nck; 04.03.2020 11:35:44.3680000; 04.03.2020 11:36:20.0440000
+10621; Canale 1: L'asse X_1_ è sul finecorsa software - ; sinumerik_alarm_nck; 04.03.2020 11:41:47.4030000; 04.03.2020 11:41:50.6280000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 04.03.2020 11:42:22.5660000; 04.03.2020 11:42:34.9520000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 04.03.2020 11:42:22.7920000; 04.03.2020 11:42:40.8950000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 11:42:23.2740000; 04.03.2020 11:42:40.8780000
+14080; Canale 1: Blocco 173: destinazione del salto FINE non trovata; sinumerik_alarm_nck; 04.03.2020 13:32:54.3930000; 04.03.2020 13:33:10.2840000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 04.03.2020 13:44:08.5820000; 04.03.2020 13:44:12.6480000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 04.03.2020 13:44:08.7050000; 04.03.2020 13:44:12.5810000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:44:10.0760000; 04.03.2020 13:44:13.2270000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:45:56.0350000; 04.03.2020 13:45:57.8820000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:45:56.5550000; 04.03.2020 13:45:57.9010000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:45:58.0990000; 04.03.2020 13:45:58.3070000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:45:58.7520000; 04.03.2020 13:46:11.9400000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:45:58.7120000; 04.03.2020 13:46:11.9290000
+752811; Alimentazione refrigerante ad alta pressione OK  DB1800.DBX12.1 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:05.6840000; 04.03.2020 13:46:12.1240000
+752827; Pressostato analogico pressione HDK raggiunta  DB1800.dbx39.0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:05.6850000; 04.03.2020 13:46:12.1240000
+752832; Utensile1 refrigerante ad alta pressione inserito  =1450FC3-QM3-MB1:x1 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:05.6850000; 04.03.2020 13:46:12.1250000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:12.1480000; 04.03.2020 13:46:12.3600000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:12.5400000; 04.03.2020 13:46:14.8060000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:12.7710000; 04.03.2020 13:46:14.3990000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:14.8340000; 04.03.2020 13:46:23.9990000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:15.5270000; 04.03.2020 13:46:24.1990000
+752811; Alimentazione refrigerante ad alta pressione OK  DB1800.DBX12.1 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:21.8330000; 04.03.2020 13:46:24.0110000
+752827; Pressostato analogico pressione HDK raggiunta  DB1800.dbx39.0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:21.8340000; 04.03.2020 13:46:24.0110000
+752832; Utensile1 refrigerante ad alta pressione inserito  =1450FC3-QM3-MB1:x1 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:21.8340000; 04.03.2020 13:46:24.0120000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:24.8350000; 04.03.2020 13:46:28.0860000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:24.9470000; 04.03.2020 13:46:28.2450000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:29.5090000; 04.03.2020 13:46:32.0570000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:29.7690000; 04.03.2020 13:46:32.0090000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:33.2860000; 04.03.2020 13:46:33.5030000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:33.7190000; 04.03.2020 13:46:33.9330000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 04.03.2020 13:46:36.5020000; 04.03.2020 13:46:36.7120000
+704334; Anomalia presente al magazzino utensili ausiliarió; sinumerik_alarm_plc_pmc; 04.03.2020 14:35:27.1330000; 04.03.2020 14:35:35.3880000
+704801; Controllo rottura utensile 1: braccio scansione non ha toccato la punta utensile: ammasso trucioli??; sinumerik_alarm_plc_pmc; 05.03.2020 02:45:04.2530000; 05.03.2020 09:10:19.1750000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.1900000; 05.03.2020 02:45:28.3940000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.1900000; 05.03.2020 02:45:28.3940000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.1980000; 05.03.2020 02:45:28.4020000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.1980000; 05.03.2020 02:45:28.4020000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.2000000; 05.03.2020 02:45:28.4040000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.2000000; 05.03.2020 02:45:28.4040000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.1870000; 05.03.2020 02:45:29.2430000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.1870000; 05.03.2020 02:45:29.2630000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.1860000; 05.03.2020 02:45:29.3190000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.1860000; 05.03.2020 02:45:29.3350000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.1860000; 05.03.2020 02:45:29.3750000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.1860000; 05.03.2020 02:45:29.3910000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.5640000; 05.03.2020 02:45:28.7680000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.5640000; 05.03.2020 02:45:28.7680000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.5660000; 05.03.2020 02:45:28.7700000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.5660000; 05.03.2020 02:45:28.7700000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.5680000; 05.03.2020 02:45:28.7720000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 05.03.2020 02:45:28.5680000; 05.03.2020 02:45:28.7720000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.5590000; 05.03.2020 02:45:29.6870000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.5590000; 05.03.2020 02:45:29.7150000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.5590000; 05.03.2020 02:45:29.7320000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.5590000; 05.03.2020 02:45:29.7470000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 05.03.2020 02:45:28.5590000; 05.03.2020 02:45:29.7640000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 05.03.2020 08:50:44.6120000; 05.03.2020 08:52:45.8410000
+14014; Canale 1: Programma selezionato 05- non esistente oppure in editazione; sinumerik_alarm_nck; 05.03.2020 09:18:33.8960000; 05.03.2020 09:38:15.5470000
+510217; Selezione programma canale 1: anomalia selezione programma pezzi; sinumerik_alarm_plc_pmc; 05.03.2020 09:18:34.1180000; 05.03.2020 09:38:17.7930000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 05.03.2020 09:18:34.5930000; 05.03.2020 09:38:17.5870000
+66011; Selezione utensile: utensile selezionato 5380 manca o è bloccato  ==>>  canale 1 set N26600; sinumerik_alarm_nck; 05.03.2020 09:47:21.7330000; 05.03.2020 09:48:34.3560000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 05.03.2020 09:47:21.9370000; 05.03.2020 09:48:35.1980000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 05.03.2020 09:47:22.2790000; 05.03.2020 09:48:35.4220000
+10621; Canale 1: L'asse Y_1_ è sul finecorsa software  ; sinumerik_alarm_nck; 05.03.2020 10:09:52.8840000; 05.03.2020 10:09:53.7480000
+16907; Canale 1: Azione 'Cambio al modo operativo manuale' possibile solo nello stato di stop; sinumerik_alarm_nck; 05.03.2020 11:11:12.6740000; 05.03.2020 11:11:35.2990000
+10621; Canale 1: L'asse Y_1_ è sul finecorsa software  ; sinumerik_alarm_nck; 05.03.2020 11:15:03.0040000; 05.03.2020 11:15:03.8000000
+703736; Riparo di carico: è presente un'anomalia nel convertitore --> vedi immagine diagnostica S120; sinumerik_alarm_plc_pmc; 05.03.2020 14:22:01.5370000; 05.03.2020 14:22:04.2300000
+703736; Riparo di carico: è presente un'anomalia nel convertitore --> vedi immagine diagnostica S120; sinumerik_alarm_plc_pmc; 05.03.2020 14:22:06.3320000; 05.03.2020 14:22:13.7760000
+754801; Zona di protezione magazzino supplementare OK   manca; sinumerik_alarm_plc_pmc; 05.03.2020 14:31:17.8050000; 05.03.2020 14:33:01.5690000
+704334; Anomalia presente al magazzino utensili ausiliarió; sinumerik_alarm_plc_pmc; 05.03.2020 14:31:55.1730000; 05.03.2020 14:33:48.6070000
+66011; Selezione utensile: utensile selezionato 5420 manca o è bloccato  ==>>  canale 1 set N26600; sinumerik_alarm_nck; 05.03.2020 14:51:17.1600000; 05.03.2020 14:52:51.8860000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 05.03.2020 14:51:17.2020000; 05.03.2020 14:52:52.2860000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 05.03.2020 14:51:17.7630000; 05.03.2020 14:52:52.3220000
+704801; Controllo rottura utensile 1: braccio scansione non ha toccato la punta utensile: ammasso trucioli??; sinumerik_alarm_plc_pmc; 06.03.2020 03:06:05.9530000; 06.03.2020 07:00:10.9930000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.2440000; 06.03.2020 03:06:29.4480000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.2440000; 06.03.2020 03:06:29.4480000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.2520000; 06.03.2020 03:06:29.4560000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.2520000; 06.03.2020 03:06:29.4560000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.2540000; 06.03.2020 03:06:29.4580000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.2540000; 06.03.2020 03:06:29.4580000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.2430000; 06.03.2020 03:06:30.2930000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.2430000; 06.03.2020 03:06:30.3090000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.2430000; 06.03.2020 03:06:30.4130000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.2430000; 06.03.2020 03:06:30.4290000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.2430000; 06.03.2020 03:06:30.4620000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.2430000; 06.03.2020 03:06:30.4780000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.6300000; 06.03.2020 03:06:29.8340000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.6300000; 06.03.2020 03:06:29.8340000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.6320000; 06.03.2020 03:06:29.8360000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.6320000; 06.03.2020 03:06:29.8360000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.6340000; 06.03.2020 03:06:29.8380000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 06.03.2020 03:06:29.6340000; 06.03.2020 03:06:29.8380000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.6280000; 06.03.2020 03:06:30.7740000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.6280000; 06.03.2020 03:06:30.7980000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.6280000; 06.03.2020 03:06:30.8180000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 06.03.2020 03:06:29.6280000; 06.03.2020 03:06:30.8910000
+14080; Canale 1: Blocco 95: destinazione del salto T_55572 non trovata; sinumerik_alarm_nck; 06.03.2020 03:06:40.2860000; 06.03.2020 06:56:05.5160000
+10621; Canale 1: L'asse X_1_ è sul finecorsa software - ; sinumerik_alarm_nck; 06.03.2020 10:54:19.1770000; 06.03.2020 10:54:48.4880000
+16927; Canale 3: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 06.03.2020 10:59:46.3580000; 06.03.2020 11:00:23.7420000
+751637; Carico/scarico utensile attivo / tutti i canali in reset   manca; sinumerik_alarm_plc_pmc; 06.03.2020 11:08:41.7260000; 06.03.2020 11:08:43.6380000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 06.03.2020 11:08:41.7270000; 06.03.2020 11:08:43.7350000
+910001; Controllo rottura utensile 1: rottura utensile:  Duplo n.: 0 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 06.03.2020 11:37:47.6350000; 06.03.2020 11:43:03.1200000
+67301; Toolcheck 1 (BKM9) non in posizione iniziale  ==>> Canale 3 Set N506000; sinumerik_alarm_nck; 06.03.2020 11:38:21.6260000; 06.03.2020 11:43:02.1850000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 06.03.2020 11:38:21.7840000; 06.03.2020 11:43:02.6170000
+511303; Allarme SET da canale NC 3 attivo; sinumerik_alarm_plc_pmc; 06.03.2020 11:38:21.7840000; 06.03.2020 11:43:02.6170000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 06.03.2020 11:38:22.4240000; 06.03.2020 11:43:02.9310000
+704351; lunghezza max. utensile in mandrino 1 inferiore a lunghezza di taglio; sinumerik_alarm_plc_pmc; 06.03.2020 12:10:46.9670000; 06.03.2020 12:11:05.1020000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 06.03.2020 12:10:47.6010000; 06.03.2020 12:11:06.1760000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 06.03.2020 12:10:47.6020000; 06.03.2020 12:11:06.1760000
+16927; Canale 1: Azione 'Cambio al modo operativo di programma' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 06.03.2020 12:11:13.5160000; 06.03.2020 12:11:15.2820000
+6406; Canale 1: Manca la tacitazione PLC al comando 01; sinumerik_alarm_nck; 06.03.2020 12:46:22.7650000; 06.03.2020 12:46:47.4870000
+16906; Canale 1: Influenza sul programma: azione 'Interrupt utente (posizione di default)' interrotta a causa di un allarme; sinumerik_alarm_nck; 06.03.2020 12:46:22.9840000; 06.03.2020 12:46:47.4870000
+6406; Canale 1: Manca la tacitazione PLC al comando 01; sinumerik_alarm_nck; 06.03.2020 12:46:55.4670000; 06.03.2020 12:47:02.0020000
+16906; Canale 1: Influenza sul programma: azione 'Interrupt utente (posizione di default)' interrotta a causa di un allarme; sinumerik_alarm_nck; 06.03.2020 12:46:55.6780000; 06.03.2020 12:46:56.2840000
+22069; Canale 1: Blocco N25100 correzione del raggio utensile: non c'è alcun utensile disponibile nel gruppo utensili 5060, programma /_N_CMA_DIR/_N_G_TM_T_SUBSTITU; sinumerik_alarm_nck; 06.03.2020 14:34:36.3510000; 06.03.2020 14:36:34.0200000
+66011; Selezione utensile: utensile selezionato 5060 manca o è bloccato  ==>>  canale 1 set N26600; sinumerik_alarm_nck; 06.03.2020 14:38:52.8410000; 06.03.2020 14:38:59.7490000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 06.03.2020 14:38:53.0590000; 06.03.2020 14:39:00.6900000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 06.03.2020 14:38:53.7180000; 06.03.2020 14:39:00.8100000
+551307; Asse A_Master: sovvracaricato (Md> momento di soglia Mdx Sinamics p2194); sinumerik_alarm_plc_pmc; 06.03.2020 20:36:54.2210000; 07.03.2020 08:06:58.4560000
+703321; Pezzo RTB non serrato, se utensile in uso; sinumerik_alarm_plc_pmc; 06.03.2020 20:36:54.3240000; 07.03.2020 08:06:58.5670000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 06.03.2020 20:36:54.5360000; 07.03.2020 08:06:58.5390000
+700124; Grob-Dämon: anomalia della funzione di ServiceLog. Eventualmente nessun accesso al supporto informatico.; sinumerik_alarm_plc_pmc; 06.03.2020 20:36:57.1380000; 07.03.2020 08:06:58.4920000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:18:59.7050000; 07.03.2020 08:18:59.9100000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:18:59.7050000; 07.03.2020 08:18:59.9100000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:18:59.7130000; 07.03.2020 08:18:59.9180000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:18:59.7130000; 07.03.2020 08:18:59.9180000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:18:59.7150000; 07.03.2020 08:18:59.9200000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:18:59.7150000; 07.03.2020 08:18:59.9200000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:18:59.7020000; 07.03.2020 08:19:00.7730000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:18:59.7020000; 07.03.2020 08:19:00.7890000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:18:59.7020000; 07.03.2020 08:19:00.8770000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:18:59.7020000; 07.03.2020 08:19:00.8930000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:18:59.7020000; 07.03.2020 08:19:00.9090000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:18:59.7020000; 07.03.2020 08:19:00.9250000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:19:00.0800000; 07.03.2020 08:19:00.2810000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:19:00.0800000; 07.03.2020 08:19:00.2810000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:19:00.0820000; 07.03.2020 08:19:00.2830000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:19:00.0820000; 07.03.2020 08:19:00.2830000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:19:00.0840000; 07.03.2020 08:19:00.2850000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 07.03.2020 08:19:00.0840000; 07.03.2020 08:19:00.2850000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:19:00.0740000; 07.03.2020 08:19:01.2530000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:19:00.0740000; 07.03.2020 08:19:01.2730000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 07.03.2020 08:19:00.0740000; 07.03.2020 08:19:01.3370000
+700200; Pneumatica: pressostato superamento della pressione (=120FC-BP1:2) manca; sinumerik_alarm_plc_pmc; 07.03.2020 08:54:59.4680000; 07.03.2020 08:55:11.2680000
+910001; Controllo rottura utensile 1: rottura utensile:  Duplo n.: 0 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 07.03.2020 18:29:53.3610000; 08.03.2020 09:32:42.4370000
+6406; Canale 1: Manca la tacitazione PLC al comando 01; sinumerik_alarm_nck; 08.03.2020 09:32:39.7830000; 08.03.2020 09:32:41.1350000
+16906; Canale 1: Influenza sul programma: azione 'Interrupt utente (posizione di default)' interrotta a causa di un allarme; sinumerik_alarm_nck; 08.03.2020 09:32:40.0030000; 08.03.2020 09:32:41.1350000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 08.03.2020 09:58:54.4300000; 08.03.2020 09:58:59.8000000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 08.03.2020 09:58:54.9550000; 08.03.2020 09:59:00.1780000
+701711; Impianto lubrorefrigerante pompa ad alta pressione  selezione pressione fuori range valido; sinumerik_alarm_plc_pmc; 08.03.2020 09:59:00.6570000; 08.03.2020 09:59:12.1750000
+752811; Alimentazione refrigerante ad alta pressione OK  DB1800.DBX12.1 manca; sinumerik_alarm_plc_pmc; 08.03.2020 09:59:04.2430000; 08.03.2020 09:59:12.3640000
+752827; Pressostato analogico pressione HDK raggiunta  DB1800.dbx39.0 manca; sinumerik_alarm_plc_pmc; 08.03.2020 09:59:04.2440000; 08.03.2020 09:59:12.3650000
+752832; Utensile1 refrigerante ad alta pressione inserito  =1450FC3-QM3-MB1:x1 manca; sinumerik_alarm_plc_pmc; 08.03.2020 09:59:04.2440000; 08.03.2020 09:59:12.3650000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 08.03.2020 09:59:04.6320000; 08.03.2020 09:59:12.1440000
+910001; Controllo rottura utensile 1: rottura utensile:  Duplo n.: 0 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 08.03.2020 12:40:48.3720000; 09.03.2020 07:33:04.5260000
+67301; Toolcheck 1 (BKM9) non in posizione iniziale  ==>> Canale 3 Set N506000; sinumerik_alarm_nck; 08.03.2020 12:41:22.1410000; 09.03.2020 07:33:02.7030000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 08.03.2020 12:41:22.2100000; 09.03.2020 07:33:04.5520000
+511303; Allarme SET da canale NC 3 attivo; sinumerik_alarm_plc_pmc; 08.03.2020 12:41:22.2100000; 09.03.2020 07:33:04.5520000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 08.03.2020 12:41:22.8760000; 09.03.2020 07:33:04.5240000
+910001; Controllo rottura utensile 1: rottura utensile: 4669 Duplo n.: 2 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 09.03.2020 07:33:11.6150000; 09.03.2020 08:05:03.7990000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.0210000; 09.03.2020 07:33:34.2250000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.0210000; 09.03.2020 07:33:34.2250000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.0290000; 09.03.2020 07:33:34.2330000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.0290000; 09.03.2020 07:33:34.2330000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.0310000; 09.03.2020 07:33:34.2350000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.0310000; 09.03.2020 07:33:34.2350000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.0170000; 09.03.2020 07:33:35.0750000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.0170000; 09.03.2020 07:33:35.0910000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.0170000; 09.03.2020 07:33:35.2030000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.0170000; 09.03.2020 07:33:35.2190000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.0170000; 09.03.2020 07:33:35.2350000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.0170000; 09.03.2020 07:33:35.2510000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.3950000; 09.03.2020 07:33:34.5990000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.3950000; 09.03.2020 07:33:34.5990000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.3970000; 09.03.2020 07:33:34.6010000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.3970000; 09.03.2020 07:33:34.6010000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.3990000; 09.03.2020 07:33:34.6030000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 09.03.2020 07:33:34.3990000; 09.03.2020 07:33:34.6030000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.3890000; 09.03.2020 07:33:35.5430000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.3890000; 09.03.2020 07:33:35.5630000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.3890000; 09.03.2020 07:33:35.5880000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.3890000; 09.03.2020 07:33:35.6030000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 09.03.2020 07:33:34.3890000; 09.03.2020 07:33:35.6590000
+67301; Toolcheck 1 (BKM9) non in posizione iniziale  ==>> Canale 3 Set N103500; sinumerik_alarm_nck; 09.03.2020 07:46:24.4030000; 09.03.2020 08:05:02.1700000
+511303; Allarme SET da canale NC 3 attivo; sinumerik_alarm_plc_pmc; 09.03.2020 07:46:24.4800000; 09.03.2020 08:05:02.9700000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 07:46:25.0390000; 09.03.2020 08:05:03.3950000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:33:40.2400000; 09.03.2020 09:33:57.8770000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_MARKERSI[74], NCK: 0; SI - KDV MARKERSIP[74] Autorizzazione dispositivo di serraggio; sinumerik_alarm_nck; 09.03.2020 09:33:40.2400000; 09.03.2020 09:33:57.8770000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:40.2440000; 09.03.2020 09:33:40.2450000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:33:57.9160000; 09.03.2020 09:33:58.9960000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:33:57.9200000; 09.03.2020 09:33:57.9220000
+12080; Canale 1: Blocco 39: errore di sintassi nel testo = ENDFOR; sinumerik_alarm_nck; 09.03.2020 09:36:04.6580000; 09.03.2020 09:36:43.3390000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_MARKERSIP[74], NCK: 0; SI - KDV MARKERSIP[74] Autorizzazione dispositivo di serraggio; sinumerik_alarm_nck; 09.03.2020 09:49:12.1710000; 09.03.2020 09:49:17.8300000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:12.1730000; 09.03.2020 09:49:17.8300000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:12.1770000; 09.03.2020 09:49:12.1780000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:17.8290000; 09.03.2020 09:49:18.9330000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8330000; 09.03.2020 09:49:17.8750000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8330000; 09.03.2020 09:49:17.8750000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8330000; 09.03.2020 09:49:17.8750000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8330000; 09.03.2020 09:49:17.8750000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8370000; 09.03.2020 09:49:17.8750000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8370000; 09.03.2020 09:49:17.8750000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8370000; 09.03.2020 09:49:17.8750000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8370000; 09.03.2020 09:49:17.8750000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8410000; 09.03.2020 09:49:17.8750000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8410000; 09.03.2020 09:49:17.8750000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8410000; 09.03.2020 09:49:17.8750000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:17.8410000; 09.03.2020 09:49:17.8750000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:17.8650000; 09.03.2020 09:49:18.9330000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:18.4790000; 09.03.2020 09:49:21.1670000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:18.9410000; 09.03.2020 09:49:20.0130000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:18.9450000; 09.03.2020 09:49:18.9800000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:18.9780000; 09.03.2020 09:49:20.0130000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:20.0180000; 09.03.2020 09:49:21.1200000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0220000; 09.03.2020 09:49:20.0610000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0260000; 09.03.2020 09:49:20.0610000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0260000; 09.03.2020 09:49:20.0610000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0260000; 09.03.2020 09:49:20.0610000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:20.0260000; 09.03.2020 09:49:20.0610000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:20.0540000; 09.03.2020 09:49:21.1200000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:21.1290000; 09.03.2020 09:49:25.1130000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:21.1330000; 09.03.2020 09:49:21.1670000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:21.1650000; 09.03.2020 09:49:25.1130000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:25.1180000; 09.03.2020 09:49:26.2250000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1220000; 09.03.2020 09:49:25.1570000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1260000; 09.03.2020 09:49:25.1570000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1260000; 09.03.2020 09:49:25.1570000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1260000; 09.03.2020 09:49:25.1570000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:25.1260000; 09.03.2020 09:49:25.1570000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:25.1540000; 09.03.2020 09:49:26.2250000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:25.8350000; 09.03.2020 09:49:26.0660000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:26.2300000; 09.03.2020 09:49:38.1640000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2340000; 09.03.2020 09:49:26.2730000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2380000; 09.03.2020 09:49:26.2730000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2380000; 09.03.2020 09:49:26.2730000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2380000; 09.03.2020 09:49:26.2730000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:26.2380000; 09.03.2020 09:49:26.2730000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:26.2620000; 09.03.2020 09:49:38.1640000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:26.8610000; 09.03.2020 09:49:28.1590000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:38.1690000; 09.03.2020 09:49:39.2780000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1730000; 09.03.2020 09:49:38.2120000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1770000; 09.03.2020 09:49:38.2120000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1770000; 09.03.2020 09:49:38.2120000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1770000; 09.03.2020 09:49:38.2120000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:38.1770000; 09.03.2020 09:49:38.2120000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:38.2010000; 09.03.2020 09:49:39.2780000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:39.0100000; 09.03.2020 09:49:40.0550000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 09.03.2020 09:49:39.1250000; 09.03.2020 09:49:39.2780000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:39.2780000; 09.03.2020 09:49:40.3730000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2810000; 09.03.2020 09:49:39.3250000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2810000; 09.03.2020 09:49:39.3250000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2810000; 09.03.2020 09:49:39.3250000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2810000; 09.03.2020 09:49:39.3250000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2850000; 09.03.2020 09:49:39.3250000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2850000; 09.03.2020 09:49:39.3250000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2850000; 09.03.2020 09:49:39.3250000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2850000; 09.03.2020 09:49:39.3250000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2890000; 09.03.2020 09:49:39.3250000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2890000; 09.03.2020 09:49:39.3250000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2890000; 09.03.2020 09:49:39.3250000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:39.2890000; 09.03.2020 09:49:39.3250000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:39.3140000; 09.03.2020 09:49:40.3730000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:40.3820000; 09.03.2020 09:49:41.5080000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:40.3860000; 09.03.2020 09:49:40.4230000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:40.4180000; 09.03.2020 09:49:41.5080000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:41.1870000; 09.03.2020 09:49:41.2610000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:41.5140000; 09.03.2020 09:49:45.4390000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:41.5180000; 09.03.2020 09:49:41.5510000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:41.5500000; 09.03.2020 09:49:45.4390000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:45.4440000; 09.03.2020 09:49:46.6000000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4480000; 09.03.2020 09:49:45.4850000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4520000; 09.03.2020 09:49:45.4850000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4520000; 09.03.2020 09:49:45.4850000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4520000; 09.03.2020 09:49:45.4850000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:45.4520000; 09.03.2020 09:49:45.4850000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:45.4800000; 09.03.2020 09:49:46.6000000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:46.1910000; 09.03.2020 09:49:46.6080000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:46.6040000; 09.03.2020 09:49:47.7050000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6080000; 09.03.2020 09:49:46.6490000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6120000; 09.03.2020 09:49:46.6490000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6120000; 09.03.2020 09:49:46.6490000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6120000; 09.03.2020 09:49:46.6490000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:46.6120000; 09.03.2020 09:49:46.6490000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:46.6400000; 09.03.2020 09:49:47.7050000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:47.7010000; 09.03.2020 09:49:48.8080000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7050000; 09.03.2020 09:49:47.7470000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7090000; 09.03.2020 09:49:47.7470000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7090000; 09.03.2020 09:49:47.7470000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7090000; 09.03.2020 09:49:47.7470000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:47.7090000; 09.03.2020 09:49:47.7470000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:47.7330000; 09.03.2020 09:49:48.8080000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 09:49:48.3350000; 09.03.2020 09:49:56.8720000
+27090; Errore nel confronto. incrociato dei dati NCK-PLC, $A_OUTSE[41], NCK: 0; SI - KDV OUTSEP[41] - OUTSEP41; Giunto 1, tavola circolare, pressione; sinumerik_alarm_nck; 09.03.2020 09:49:48.8130000; 09.03.2020 09:50:56.2240000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8170000; 09.03.2020 09:49:48.8560000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8210000; 09.03.2020 09:49:48.8560000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8210000; 09.03.2020 09:49:48.8560000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8210000; 09.03.2020 09:49:48.8560000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:49:48.8210000; 09.03.2020 09:49:48.8560000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:49:48.8490000; 09.03.2020 09:50:56.2250000
+27091; Errore nel confronto Incrociato dei dati NCK-PLC, stop da PLC; sinumerik_alarm_nck; 09.03.2020 09:50:56.2660000; 09.03.2020 09:50:57.3320000
+27021; Asse X_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse Y_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse Z_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse B_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse A_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse SP1 stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse Q_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse EL1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse ES1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse E_1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse ZM1_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+27021; Asse Y_2_ stop D attivato; sinumerik_alarm_nck; 09.03.2020 09:50:56.2700000; 09.03.2020 09:50:56.2720000
+201709; Asse ES1_ DRV_3.15:6 (26):SI Motion P1 (CU): STOP D attivato.; fhy101011_05103400; 09.03.2020 09:50:56.3110000; 09.03.2020 09:50:58.3820000
+201709; Asse E_1_ DRV_3.15:5 (28):SI Motion P1 (CU): STOP D attivato.; fhy101011_05103400; 09.03.2020 09:50:56.3240000; 09.03.2020 09:50:58.5630000
+201709; Asse ZM1_ DRV_3.15:3 (30):SI Motion P1 (CU): STOP D attivato.; fhy101011_05103400; 09.03.2020 09:50:56.3320000; 09.03.2020 09:50:58.5870000
+700200; Pneumatica: pressostato superamento della pressione (=120FC-BP1:2) manca; sinumerik_alarm_plc_pmc; 09.03.2020 10:09:45.5070000; 09.03.2020 10:10:23.4550000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 09.03.2020 10:10:36.4650000; 09.03.2020 10:10:41.4690000
+16927; Canale 1: Azione 'Cambio al modo operativo manuale' non consentita con elaborazione interrupt attiva; sinumerik_alarm_nck; 09.03.2020 11:42:39.5890000; 09.03.2020 11:42:39.9440000
+66150; verso posizione di partenza impossibile: asse Z in zona di lavoro, o pezzo ==>> canale 1 blocco N13920; sinumerik_alarm_nck; 09.03.2020 11:46:59.5230000; 09.03.2020 11:47:05.6740000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 09.03.2020 11:46:59.5680000; 09.03.2020 11:47:06.1750000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 11:47:00.2250000; 09.03.2020 11:47:06.1890000
+551307; Asse A_Master: sovvracaricato (Md> momento di soglia Mdx Sinamics p2194); sinumerik_alarm_plc_pmc; 09.03.2020 13:48:56.1570000; 09.03.2020 13:55:39.9930000
+703321; Pezzo RTB non serrato, se utensile in uso; sinumerik_alarm_plc_pmc; 09.03.2020 13:48:56.2610000; 09.03.2020 13:55:39.8790000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 09.03.2020 13:48:56.5120000; 09.03.2020 13:55:40.9180000
+700124; Grob-Dämon: anomalia della funzione di ServiceLog. Eventualmente nessun accesso al supporto informatico.; sinumerik_alarm_plc_pmc; 09.03.2020 13:48:59.0940000; 09.03.2020 13:55:40.0310000
+12080; Canale 1: Blocco 1: errore di sintassi nel testo 5; sinumerik_alarm_nck; 09.03.2020 14:02:17.4490000; 09.03.2020 14:02:20.1590000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 10.03.2020 10:31:21.9390000; 10.03.2020 10:31:37.6410000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 10.03.2020 10:31:21.9400000; 10.03.2020 10:31:37.6420000
+700119; Nuovo file log creato; sinumerik_alarm_plc_pmc; 10.03.2020 10:31:24.2530000; 10.03.2020 10:31:37.6390000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.5850000; 10.03.2020 10:40:43.7890000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.5850000; 10.03.2020 10:40:43.7890000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.5930000; 10.03.2020 10:40:43.7970000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.5930000; 10.03.2020 10:40:43.7970000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.5950000; 10.03.2020 10:40:43.7990000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.5950000; 10.03.2020 10:40:43.7990000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.5810000; 10.03.2020 10:40:44.6480000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.5810000; 10.03.2020 10:40:44.6600000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.5820000; 10.03.2020 10:40:44.7440000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.5820000; 10.03.2020 10:40:44.7610000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.5820000; 10.03.2020 10:40:44.7760000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.5820000; 10.03.2020 10:40:44.7920000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.9590000; 10.03.2020 10:40:44.1630000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.9590000; 10.03.2020 10:40:44.1630000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.9610000; 10.03.2020 10:40:44.1650000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.9610000; 10.03.2020 10:40:44.1650000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.9630000; 10.03.2020 10:40:44.1670000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 10.03.2020 10:40:43.9630000; 10.03.2020 10:40:44.1670000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.9540000; 10.03.2020 10:40:45.1010000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.9540000; 10.03.2020 10:40:45.1200000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.9540000; 10.03.2020 10:40:45.1400000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.9540000; 10.03.2020 10:40:45.1560000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 10.03.2020 10:40:43.9540000; 10.03.2020 10:40:45.2160000
+14014; Canale 1: Programma selezionato 09- non esistente oppure in editazione; sinumerik_alarm_nck; 10.03.2020 10:48:33.1060000; 10.03.2020 10:48:52.5710000
+510217; Selezione programma canale 1: anomalia selezione programma pezzi; sinumerik_alarm_plc_pmc; 10.03.2020 10:48:33.2930000; 10.03.2020 10:48:53.0320000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 10.03.2020 10:48:33.7380000; 10.03.2020 10:48:53.3060000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 10.03.2020 11:03:51.9190000; 10.03.2020 11:03:57.4430000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 10.03.2020 11:03:52.0580000; 10.03.2020 11:03:58.0460000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 10.03.2020 11:03:52.5100000; 10.03.2020 11:03:58.0350000
+910001; Controllo rottura utensile 1: rottura utensile:  Duplo n.: 0 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 11.03.2020 05:37:00.5460000; 11.03.2020 07:53:06.3360000
+67301; Toolcheck 1 (BKM9) non in posizione iniziale  ==>> Canale 3 Set N506000; sinumerik_alarm_nck; 11.03.2020 05:37:33.5660000; 11.03.2020 07:53:05.6120000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 11.03.2020 05:37:33.6560000; 11.03.2020 07:53:06.0320000
+511303; Allarme SET da canale NC 3 attivo; sinumerik_alarm_plc_pmc; 11.03.2020 05:37:33.6560000; 11.03.2020 07:53:06.0320000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 11.03.2020 05:37:34.8790000; 11.03.2020 07:53:06.3370000
+910001; Controllo rottura utensile 1: rottura utensile: 4669 Duplo n.: 3 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 11.03.2020 07:53:13.9550000; 11.03.2020 08:27:51.2500000
+755074; Sono settati bit della spia luminosa  DB3871.DBX32.2 manca; sinumerik_alarm_plc_pmc; 11.03.2020 08:20:06.4140000; 11.03.2020 08:27:51.2520000
+6406; Canale 1: Manca la tacitazione PLC al comando 01; sinumerik_alarm_nck; 11.03.2020 08:27:49.7690000; 11.03.2020 08:27:50.6320000
+16906; Canale 1: Influenza sul programma: azione 'Interrupt utente (posizione di default)' interrotta a causa di un allarme; sinumerik_alarm_nck; 11.03.2020 08:27:49.9850000; 11.03.2020 08:27:50.6320000
+61301; Canale 1: Blocco N611103: Il tastatore di misura non commuta; sinumerik_alarm_nck; 11.03.2020 09:43:18.9460000; 11.03.2020 09:43:26.5850000
+700119; Nuovo file log creato; sinumerik_alarm_plc_pmc; 11.03.2020 09:54:50.4530000; 11.03.2020 09:56:42.2500000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 11.03.2020 09:56:41.5990000; 11.03.2020 09:56:42.4150000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 11.03.2020 09:56:41.6000000; 11.03.2020 09:56:42.4160000
+66196; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[4] /- Tol ==>> canale 1 blocco N240; sinumerik_alarm_nck; 11.03.2020 13:45:22.4620000; 11.03.2020 13:45:30.5690000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 11.03.2020 13:45:22.5640000; 11.03.2020 13:45:31.2260000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 11.03.2020 13:45:24.0720000; 11.03.2020 13:45:31.7490000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:17.9480000; 11.03.2020 13:46:18.1520000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:17.9480000; 11.03.2020 13:46:18.1520000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:17.9560000; 11.03.2020 13:46:18.1600000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:17.9560000; 11.03.2020 13:46:18.1600000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:17.9580000; 11.03.2020 13:46:18.1620000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:17.9580000; 11.03.2020 13:46:18.1620000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:17.9450000; 11.03.2020 13:46:18.9970000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:17.9450000; 11.03.2020 13:46:19.0130000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:17.9450000; 11.03.2020 13:46:19.1130000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:17.9450000; 11.03.2020 13:46:19.1290000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:17.9450000; 11.03.2020 13:46:19.1450000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:17.9450000; 11.03.2020 13:46:19.2330000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:18.3350000; 11.03.2020 13:46:18.5390000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:18.3350000; 11.03.2020 13:46:18.5390000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:18.3360000; 11.03.2020 13:46:18.5410000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:18.3370000; 11.03.2020 13:46:18.5410000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:18.3390000; 11.03.2020 13:46:18.5430000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 11.03.2020 13:46:18.3390000; 11.03.2020 13:46:18.5430000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:18.3290000; 11.03.2020 13:46:19.4780000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:18.3290000; 11.03.2020 13:46:19.4930000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:18.3290000; 11.03.2020 13:46:19.5140000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:18.3290000; 11.03.2020 13:46:19.5410000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 11.03.2020 13:46:18.3290000; 11.03.2020 13:46:19.5900000
+22069; Canale 1: Blocco N25100 correzione del raggio utensile: non c'è alcun utensile disponibile nel gruppo utensili 5426, programma /_N_CMA_DIR/_N_G_TM_T_SUBSTITU; sinumerik_alarm_nck; 12.03.2020 11:21:23.2020000; 12.03.2020 11:21:53.1880000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.5920000; 12.03.2020 16:11:23.7960000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.5920000; 12.03.2020 16:11:23.7960000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.6000000; 12.03.2020 16:11:23.8040000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.6000000; 12.03.2020 16:11:23.8040000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.6020000; 12.03.2020 16:11:23.8060000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.6020000; 12.03.2020 16:11:23.8060000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.5880000; 12.03.2020 16:11:24.6450000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.5880000; 12.03.2020 16:11:24.6700000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.5880000; 12.03.2020 16:11:24.7730000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.5880000; 12.03.2020 16:11:24.7890000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.5880000; 12.03.2020 16:11:24.8130000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.5880000; 12.03.2020 16:11:24.8850000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.9660000; 12.03.2020 16:11:24.1700000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.9660000; 12.03.2020 16:11:24.1700000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.9680000; 12.03.2020 16:11:24.1720000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.9680000; 12.03.2020 16:11:24.1720000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.9700000; 12.03.2020 16:11:24.1740000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 12.03.2020 16:11:23.9700000; 12.03.2020 16:11:24.1740000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.9600000; 12.03.2020 16:11:25.1050000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.9600000; 12.03.2020 16:11:25.1250000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.9600000; 12.03.2020 16:11:25.1490000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.9600000; 12.03.2020 16:11:25.1780000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 12.03.2020 16:11:23.9600000; 12.03.2020 16:11:25.1980000
+754918; 0 logico  M0.0 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:20:13.0700000; 12.03.2020 16:20:18.2360000
+754978; Pinza 1 dati aggiornati   manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:20:13.0710000; 12.03.2020 16:20:18.2370000
+704334; Anomalia presente al magazzino utensili ausiliarió; sinumerik_alarm_plc_pmc; 12.03.2020 16:20:19.6800000; 12.03.2020 16:20:22.2280000
+754918; 0 logico  M0.0 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:01.0160000; 12.03.2020 16:21:08.6840000
+754922; Un'ordine attivo al magazzino utensili ausiliario  DB3898.DBX1.0 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:01.0170000; 12.03.2020 16:21:08.6840000
+754978; Pinza 1 dati aggiornati   manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:01.0170000; 12.03.2020 16:21:08.6850000
+754992; Magazzino utensili ausiliario: richiesta spostare dati  DB3898.DBX1.7 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:01.0180000; 12.03.2020 16:21:08.7050000
+754918; 0 logico  M0.0 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:34.2040000; 12.03.2020 16:21:45.8930000
+754922; Un'ordine attivo al magazzino utensili ausiliario  DB3898.DBX1.0 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:34.2040000; 12.03.2020 16:21:45.8930000
+754978; Pinza 1 dati aggiornati   manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:34.2050000; 12.03.2020 16:21:45.8940000
+754992; Magazzino utensili ausiliario: richiesta spostare dati  DB3898.DBX1.7 manca; sinumerik_alarm_plc_pmc; 12.03.2020 16:21:34.2050000; 12.03.2020 16:21:45.8940000
+700120; Anomalia nell'esecuzione di funzioni script HMIPro; sinumerik_alarm_plc_pmc; 12.03.2020 19:55:52.1340000; 12.03.2020 20:27:02.0380000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 12.03.2020 19:55:52.7160000; 12.03.2020 20:27:02.3380000
+66195; Mandrino 1: lunghezza dell'utensile L2 <> lunghezza di riferimento: G_Spi1_Control_L2_D[3] /- Tol ==>> canale 1 blocco N300; sinumerik_alarm_nck; 13.03.2020 09:42:46.1680000; 13.03.2020 09:42:57.1720000
+510219; Allarme SET da canale NC 1 attivo; sinumerik_alarm_plc_pmc; 13.03.2020 09:42:46.3740000; 13.03.2020 09:42:57.8420000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 13.03.2020 09:42:47.3500000; 13.03.2020 09:42:57.9950000
+754803; Spia luminosa gestione degli utensili è attiva   manca; sinumerik_alarm_plc_pmc; 13.03.2020 09:58:43.3580000; 13.03.2020 09:59:11.9900000
+704334; Anomalia presente al magazzino utensili ausiliarió; sinumerik_alarm_plc_pmc; 13.03.2020 09:59:09.8770000; 13.03.2020 09:59:11.5510000
+704334; Anomalia presente al magazzino utensili ausiliarió; sinumerik_alarm_plc_pmc; 13.03.2020 09:59:11.7690000; 13.03.2020 09:59:27.7380000
+6406; Canale 1: Manca la tacitazione PLC al comando 01; sinumerik_alarm_nck; 13.03.2020 09:59:26.3520000; 13.03.2020 09:59:31.6590000
+16906; Canale 1: Influenza sul programma: azione 'Interrupt utente (posizione di default)' interrotta a causa di un allarme; sinumerik_alarm_nck; 13.03.2020 09:59:26.5720000; 13.03.2020 09:59:27.9020000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:04.6540000; 14.03.2020 00:16:04.8580000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:04.6540000; 14.03.2020 00:16:04.8580000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:04.6620000; 14.03.2020 00:16:04.8660000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:04.6620000; 14.03.2020 00:16:04.8660000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:04.6640000; 14.03.2020 00:16:04.8680000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:04.6640000; 14.03.2020 00:16:04.8680000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:04.6520000; 14.03.2020 00:16:05.7190000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:04.6520000; 14.03.2020 00:16:05.7440000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:04.6520000; 14.03.2020 00:16:05.8640000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:04.6520000; 14.03.2020 00:16:05.8800000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:04.6520000; 14.03.2020 00:16:05.8950000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:04.6520000; 14.03.2020 00:16:05.9120000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:05.0400000; 14.03.2020 00:16:05.2440000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:05.0400000; 14.03.2020 00:16:05.2440000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:05.0420000; 14.03.2020 00:16:05.2460000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:05.0420000; 14.03.2020 00:16:05.2460000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:05.0440000; 14.03.2020 00:16:05.2480000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 14.03.2020 00:16:05.0440000; 14.03.2020 00:16:05.2480000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:05.0360000; 14.03.2020 00:16:06.1840000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:05.0360000; 14.03.2020 00:16:06.2030000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:05.0360000; 14.03.2020 00:16:06.2230000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:05.0360000; 14.03.2020 00:16:06.2480000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 14.03.2020 00:16:05.0360000; 14.03.2020 00:16:06.3000000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:30.8600000; 15.03.2020 00:25:31.0640000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:30.8600000; 15.03.2020 00:25:31.0640000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:30.8680000; 15.03.2020 00:25:31.0720000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:30.8680000; 15.03.2020 00:25:31.0720000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:30.8700000; 15.03.2020 00:25:31.0740000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:30.8700000; 15.03.2020 00:25:31.0740000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:30.8570000; 15.03.2020 00:25:31.9530000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:30.8570000; 15.03.2020 00:25:31.9700000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:30.8580000; 15.03.2020 00:25:32.0490000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:30.8580000; 15.03.2020 00:25:32.0650000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:30.8580000; 15.03.2020 00:25:32.0970000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:30.8580000; 15.03.2020 00:25:32.1140000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:31.2340000; 15.03.2020 00:25:31.4380000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:31.2340000; 15.03.2020 00:25:31.4380000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:31.2360000; 15.03.2020 00:25:31.4400000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:31.2360000; 15.03.2020 00:25:31.4400000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:31.2380000; 15.03.2020 00:25:31.4420000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 15.03.2020 00:25:31.2380000; 15.03.2020 00:25:31.4420000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:31.2300000; 15.03.2020 00:25:32.3450000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:31.2300000; 15.03.2020 00:25:32.3570000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:31.2300000; 15.03.2020 00:25:32.3730000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:31.2300000; 15.03.2020 00:25:32.3930000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 15.03.2020 00:25:31.2300000; 15.03.2020 00:25:32.4170000
+700120; Anomalia nell'esecuzione di funzioni script HMIPro; sinumerik_alarm_plc_pmc; 15.03.2020 00:52:02.0280000; 15.03.2020 09:16:09.8780000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 15.03.2020 00:52:02.9310000; 15.03.2020 09:16:10.2860000
+700120; Anomalia nell'esecuzione di funzioni script HMIPro; sinumerik_alarm_plc_pmc; 15.03.2020 09:22:08.0940000; 15.03.2020 09:33:21.5690000
+753839; Anomalia canale 2  DB2500.DBX100.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 15.03.2020 09:22:08.7490000; 15.03.2020 09:33:22.2590000
+6406; Canale 1: Manca la tacitazione PLC al comando 01; sinumerik_alarm_nck; 15.03.2020 09:33:19.9640000; 15.03.2020 09:33:20.8400000
+16906; Canale 1: Influenza sul programma: azione 'Interrupt utente (posizione di default)' interrotta a causa di un allarme; sinumerik_alarm_nck; 15.03.2020 09:33:20.1830000; 15.03.2020 09:33:20.8400000
+910001; Controllo rottura utensile 1: rottura utensile:  Duplo n.: 0 (rimuovere tutti i pezzi rotti dalla canalina trucioli); ; 16.03.2020 04:27:00.9620000; 19.03.2020 06:03:42.3190000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.5410000; 16.03.2020 04:27:27.7450000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.5410000; 16.03.2020 04:27:27.7450000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.5490000; 16.03.2020 04:27:27.7530000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.5490000; 16.03.2020 04:27:27.7530000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.5510000; 16.03.2020 04:27:27.7550000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.5510000; 16.03.2020 04:27:27.7550000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.5350000; 16.03.2020 04:27:28.5980000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.5350000; 16.03.2020 04:27:28.6190000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.5350000; 16.03.2020 04:27:28.7230000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.5350000; 16.03.2020 04:27:28.7540000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.5350000; 16.03.2020 04:27:28.7700000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.5350000; 16.03.2020 04:27:28.8020000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.9150000; 16.03.2020 04:27:28.1190000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.9150000; 16.03.2020 04:27:28.1190000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.9170000; 16.03.2020 04:27:28.1210000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.9170000; 16.03.2020 04:27:28.1210000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.9190000; 16.03.2020 04:27:28.1230000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 16.03.2020 04:27:27.9190000; 16.03.2020 04:27:28.1230000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.9080000; 16.03.2020 04:27:29.0390000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.9080000; 16.03.2020 04:27:29.0580000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.9080000; 16.03.2020 04:27:29.0750000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.9080000; 16.03.2020 04:27:29.0900000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 16.03.2020 04:27:27.9080000; 16.03.2020 04:27:29.1110000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.5500000; 18.03.2020 09:46:42.7540000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.5500000; 18.03.2020 09:46:42.7540000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.5580000; 18.03.2020 09:46:42.7620000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.5580000; 18.03.2020 09:46:42.7620000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.5600000; 18.03.2020 09:46:42.7640000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.5600000; 18.03.2020 09:46:42.7640000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.5460000; 18.03.2020 09:46:43.6120000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.5460000; 18.03.2020 09:46:43.6290000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.5470000; 18.03.2020 09:46:43.7080000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.5470000; 18.03.2020 09:46:43.7240000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.5470000; 18.03.2020 09:46:43.7400000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.5470000; 18.03.2020 09:46:43.7560000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.9120000; 18.03.2020 09:46:43.1160000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.9120000; 18.03.2020 09:46:43.1160000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.9140000; 18.03.2020 09:46:43.1180000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.9140000; 18.03.2020 09:46:43.1180000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.9160000; 18.03.2020 09:46:43.1200000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 18.03.2020 09:46:42.9160000; 18.03.2020 09:46:43.1200000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.9060000; 18.03.2020 09:46:44.0360000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.9060000; 18.03.2020 09:46:44.0600000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.9060000; 18.03.2020 09:46:44.0770000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.9060000; 18.03.2020 09:46:44.0960000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 18.03.2020 09:46:42.9060000; 18.03.2020 09:46:44.1120000
+551307; Asse A_Master: sovvracaricato (Md> momento di soglia Mdx Sinamics p2194); sinumerik_alarm_plc_pmc; 18.03.2020 15:31:27.0780000; 19.03.2020 06:03:42.2680000
+703321; Pezzo RTB non serrato, se utensile in uso; sinumerik_alarm_plc_pmc; 18.03.2020 15:31:27.1820000; 19.03.2020 06:03:42.1580000
+753838; Anomalia canale 1  DB2500.DBX0.3 Stato 0 manca; sinumerik_alarm_plc_pmc; 18.03.2020 15:31:27.7210000; 19.03.2020 06:03:42.6500000
+700124; Grob-Dämon: anomalia della funzione di ServiceLog. Eventualmente nessun accesso al supporto informatico.; sinumerik_alarm_plc_pmc; 18.03.2020 15:31:29.9770000; 19.03.2020 06:03:42.3060000
+27002; Asse X_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.0770000; 19.03.2020 10:11:12.2820000
+27002; Asse Y_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.0770000; 19.03.2020 10:11:12.2820000
+27002; Asse A_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.0850000; 19.03.2020 10:11:12.2900000
+27002; Asse SP1 test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.0850000; 19.03.2020 10:11:12.2900000
+27002; Asse Z_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.0870000; 19.03.2020 10:11:12.2920000
+27002; Asse B_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.0870000; 19.03.2020 10:11:12.2920000
+201798; Asse B_1_ DRV_3.14:2 (15), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.0730000; 19.03.2020 10:11:13.1320000
+201798; Asse A_1_ DRV_3.14:3 (17), Componente NX_104 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.0730000; 19.03.2020 10:11:13.1470000
+201798; Asse X_1_ DRV_3.3:3 (11), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.0720000; 19.03.2020 10:11:13.2590000
+201798; Asse Y_1_ DRV_3.3:5 (12), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.0720000; 19.03.2020 10:11:13.2750000
+201798; Asse Z_1_ DRV_3.3:4 (13), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.0720000; 19.03.2020 10:11:13.2910000
+201798; Asse SP1 DRV_3.3:7 (18), Componente NCU_01 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.0720000; 19.03.2020 10:11:13.3070000
+27002; Asse ZM1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.4520000; 19.03.2020 10:11:12.6560000
+27002; Asse Y_2_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.4520000; 19.03.2020 10:11:12.6560000
+27002; Asse ES1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.4540000; 19.03.2020 10:11:12.6580000
+27002; Asse E_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.4540000; 19.03.2020 10:11:12.6580000
+27002; Asse Q_1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.4560000; 19.03.2020 10:11:12.6600000
+27002; Asse EL1_ test stop in corso; sinumerik_alarm_nck; 19.03.2020 10:11:12.4560000; 19.03.2020 10:11:12.6600000
+201798; Asse Q_1_ DRV_3.15:2 (22), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.4450000; 19.03.2020 10:11:13.6110000
+201798; Asse EL1_ DRV_3.15:4 (24), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.4450000; 19.03.2020 10:11:13.6270000
+201798; Asse ES1_ DRV_3.15:6 (26), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.4450000; 19.03.2020 10:11:13.6390000
+201798; Asse E_1_ DRV_3.15:5 (28), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.4450000; 19.03.2020 10:11:13.6600000
+201798; Asse ZM1_ DRV_3.15:3 (30), Componente NX_105 (1):SI Motion P1 (CU): Stop di prova per sorveglianze di movimento in corso.; fhy101011_05103400; 19.03.2020 10:11:12.4450000; 19.03.2020 10:11:13.7110000

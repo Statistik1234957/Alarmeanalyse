@@ -1,0 +1,871 @@
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.2100000; 
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.2100000; 04.05.2020 06:02:58.4140000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.2180000; 04.05.2020 06:02:58.4220000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.2180000; 04.05.2020 06:02:58.4220000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.2200000; 04.05.2020 06:02:58.4240000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.2200000; 04.05.2020 06:02:58.4240000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.2050000; 04.05.2020 06:02:59.2650000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.2050000; 04.05.2020 06:02:59.2810000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.2060000; 04.05.2020 06:02:59.3990000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.2060000; 04.05.2020 06:02:59.4150000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.2060000; 04.05.2020 06:02:59.4880000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.5840000; 04.05.2020 06:02:58.7880000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.5840000; 04.05.2020 06:02:58.7880000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.5860000; 04.05.2020 06:02:58.7900000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.5860000; 04.05.2020 06:02:58.7900000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.5880000; 04.05.2020 06:02:58.7920000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:02:58.5880000; 04.05.2020 06:02:58.7920000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.5770000; 04.05.2020 06:02:59.7290000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.5770000; 04.05.2020 06:02:59.7480000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.5770000; 04.05.2020 06:02:59.7720000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.5770000; 04.05.2020 06:02:59.7870000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:02:58.5770000; 04.05.2020 06:02:59.8440000
+701048; A-Achse: Klemmung entblockt Druck (=1505FC2-BP1:2) fehlt; sinumerik_alarm_plc_pmc; 04.05.2020 06:11:04.9500000; 04.05.2020 06:19:59.6430000
+; ----- Start Alarmerfassung -----; ; 04.05.2020 06:22:46.1610000; 04.05.2020 06:22:46.1610000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:31.7490000; 04.05.2020 06:23:31.9530000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:31.7490000; 04.05.2020 06:23:31.9530000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:31.7570000; 04.05.2020 06:23:31.9610000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:31.7570000; 04.05.2020 06:23:31.9610000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:31.7590000; 04.05.2020 06:23:31.9630000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:31.7590000; 04.05.2020 06:23:31.9630000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:31.7500000; 04.05.2020 06:23:32.8110000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:31.7500000; 04.05.2020 06:23:32.8280000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:31.7500000; 04.05.2020 06:23:32.9240000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:31.7500000; 04.05.2020 06:23:32.9550000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:31.7500000; 04.05.2020 06:23:33.0270000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:32.1230000; 04.05.2020 06:23:32.3270000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:32.1230000; 04.05.2020 06:23:32.3270000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:32.1250000; 04.05.2020 06:23:32.3290000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:32.1250000; 04.05.2020 06:23:32.3290000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:32.1270000; 04.05.2020 06:23:32.3310000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 04.05.2020 06:23:32.1270000; 04.05.2020 06:23:32.3310000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:32.1210000; 04.05.2020 06:23:33.2750000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:32.1210000; 04.05.2020 06:23:33.2910000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:32.1210000; 04.05.2020 06:23:33.3080000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:32.1210000; 04.05.2020 06:23:33.3230000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 04.05.2020 06:23:32.1210000; 04.05.2020 06:23:33.3590000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 08:07:28.0950000; 04.05.2020 08:07:30.9680000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 08:09:36.0610000; 04.05.2020 08:09:38.0730000
+752827; HDK analoger Druckschalter Druck erreicht  DB1800.dbx39.0 fehlt; sinumerik_alarm_plc_pmc; 04.05.2020 09:08:28.3300000; 04.05.2020 09:08:36.0070000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 09:39:44.4690000; 04.05.2020 09:39:47.7100000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 11:05:41.6160000; 04.05.2020 11:05:43.8550000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 11:07:26.8240000; 04.05.2020 11:07:29.8600000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 12:32:19.1540000; 04.05.2020 12:32:21.3220000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 12:34:04.1540000; 04.05.2020 12:34:07.2720000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 13:58:49.8450000; 04.05.2020 13:58:53.1550000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 14:00:36.0210000; 04.05.2020 14:00:38.8600000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 15:25:28.2750000; 04.05.2020 15:25:31.1640000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 04.05.2020 15:27:14.2310000; 04.05.2020 15:27:17.2720000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 02:08:33.5630000; 05.05.2020 02:08:36.6150000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 02:10:20.6010000; 05.05.2020 02:10:22.7060000
+910510; Spindel: Werkzeug : 311520 Duplonr.: 7 Störgrenze Schwinggeschwindigkeit (v_eff) überschritten oder Unwucht (siehe GROB-Spindeldiagnose); ; 05.05.2020 04:38:40.5590000; 05.05.2020 04:40:36.1430000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 05:23:17.2030000; 05.05.2020 05:23:20.0140000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 05:25:04.2900000; 05.05.2020 05:25:06.4080000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 07:25:50.4050000; 05.05.2020 07:25:53.8160000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 07:27:36.7680000; 05.05.2020 07:27:39.7280000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 09:20:44.2360000; 05.05.2020 09:20:46.7010000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 09:22:30.6260000; 05.05.2020 09:22:32.7820000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 11:05:02.0880000; 05.05.2020 11:05:05.1730000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 11:06:48.1450000; 05.05.2020 11:06:51.1480000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.5110000; 05.05.2020 11:52:33.7150000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.5110000; 05.05.2020 11:52:33.7150000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.5190000; 05.05.2020 11:52:33.7230000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.5190000; 05.05.2020 11:52:33.7230000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.5210000; 05.05.2020 11:52:33.7250000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.5210000; 05.05.2020 11:52:33.7250000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.5070000; 05.05.2020 11:52:34.5720000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.5070000; 05.05.2020 11:52:34.5880000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.5080000; 05.05.2020 11:52:34.7000000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.5080000; 05.05.2020 11:52:34.7170000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.5080000; 05.05.2020 11:52:34.7960000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.5080000; 05.05.2020 11:52:34.8120000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.8970000; 05.05.2020 11:52:34.1010000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.8970000; 05.05.2020 11:52:34.1010000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.8990000; 05.05.2020 11:52:34.1030000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.8990000; 05.05.2020 11:52:34.1030000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.9010000; 05.05.2020 11:52:34.1050000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 05.05.2020 11:52:33.9010000; 05.05.2020 11:52:34.1050000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.8910000; 05.05.2020 11:52:35.0360000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.8910000; 05.05.2020 11:52:35.0560000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.8910000; 05.05.2020 11:52:35.0760000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.8910000; 05.05.2020 11:52:35.0920000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 05.05.2020 11:52:33.8910000; 05.05.2020 11:52:35.1080000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 12:54:24.1830000; 05.05.2020 12:54:27.4350000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 12:56:09.0890000; 05.05.2020 12:56:12.2540000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 12:57:56.1660000; 05.05.2020 12:57:59.6900000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 14:27:44.5440000; 05.05.2020 14:27:47.9080000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 14:29:29.5260000; 05.05.2020 14:29:32.5950000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 05.05.2020 14:31:16.1540000; 05.05.2020 14:31:19.8930000
+510008; Vorsicht Crashgefahr! Achsen wurden in JOG verfahren und repositionieren auf kürzesten Weg zurück!; sinumerik_alarm_plc_pmc; 05.05.2020 14:48:13.4590000; 05.05.2020 14:48:31.1410000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:13:59.6170000; 05.05.2020 15:14:00.6740000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:13:59.8170000; 05.05.2020 15:14:00.6740000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:14:00.0250000; 05.05.2020 15:14:00.6740000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:14:00.2330000; 05.05.2020 15:14:00.6740000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:14:00.4410000; 05.05.2020 15:14:00.6740000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:14:00.6090000; 05.05.2020 15:14:00.6740000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 05.05.2020 15:14:00.8500000; 05.05.2020 15:14:02.5710000
+; ----- Start Alarmerfassung -----; ; 06.05.2020 06:02:13.3550000; 06.05.2020 06:02:13.3550000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:52.6760000; 06.05.2020 06:02:52.8800000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:52.6760000; 06.05.2020 06:02:52.8800000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:52.6840000; 06.05.2020 06:02:52.8880000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:52.6840000; 06.05.2020 06:02:52.8880000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:52.6860000; 06.05.2020 06:02:52.8900000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:52.6860000; 06.05.2020 06:02:52.8900000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:52.6730000; 06.05.2020 06:02:53.7340000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:52.6730000; 06.05.2020 06:02:53.7490000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:52.6740000; 06.05.2020 06:02:53.8610000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:52.6740000; 06.05.2020 06:02:53.8770000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:52.6740000; 06.05.2020 06:02:53.8930000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:52.6730000; 06.05.2020 06:02:53.9090000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:53.0620000; 06.05.2020 06:02:53.2660000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:53.0620000; 06.05.2020 06:02:53.2660000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:53.0640000; 06.05.2020 06:02:53.2680000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:53.0640000; 06.05.2020 06:02:53.2680000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:53.0660000; 06.05.2020 06:02:53.2700000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 06.05.2020 06:02:53.0660000; 06.05.2020 06:02:53.2700000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:53.0570000; 06.05.2020 06:02:54.2050000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:53.0570000; 06.05.2020 06:02:54.2210000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:53.0570000; 06.05.2020 06:02:54.2370000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:53.0570000; 06.05.2020 06:02:54.2530000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 06.05.2020 06:02:53.0570000; 06.05.2020 06:02:54.2700000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 07:19:53.8560000; 06.05.2020 07:19:57.1470000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 07:21:39.0600000; 06.05.2020 07:21:41.7780000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 07:23:25.3500000; 06.05.2020 07:23:28.8850000
+754942; Beladestelle Scheibenmagazin aktiv   fehlt; sinumerik_alarm_plc_pmc; 06.05.2020 11:33:15.3050000; 06.05.2020 11:33:32.6850000
+66326; WZ- Magazin 1/1: Werkzeugdaten an der WZ-Wechselpos. (Lader) ==>> Kanal 3 Satz N212600; sinumerik_alarm_nck; 06.05.2020 12:17:41.9020000; 06.05.2020 12:22:09.1290000
+511303; SET-Alarm von NC Kanal 3 aktiv; sinumerik_alarm_plc_pmc; 06.05.2020 12:17:42.1170000; 06.05.2020 12:19:29.9370000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 12:23:27.2760000; 06.05.2020 12:24:10.7610000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 12:23:28.7140000; 06.05.2020 12:23:42.3580000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 06.05.2020 12:36:16.8500000; 06.05.2020 12:37:23.6730000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 12:38:32.7100000; 06.05.2020 12:39:01.0450000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 12:38:44.0260000; 06.05.2020 12:38:51.1610000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 06.05.2020 12:39:41.3260000; 06.05.2020 12:40:03.0160000
+61303; Kanal 1: Satz N697728: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 06.05.2020 12:40:06.3210000; 06.05.2020 12:40:14.9990000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 12:43:45.6340000; 06.05.2020 12:44:11.8460000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 12:43:56.6980000; 06.05.2020 12:44:02.0490000
+510008; Vorsicht Crashgefahr! Achsen wurden in JOG verfahren und repositionieren auf kürzesten Weg zurück!; sinumerik_alarm_plc_pmc; 06.05.2020 13:46:53.2170000; 06.05.2020 13:47:06.9640000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 13:58:10.1370000; 06.05.2020 13:58:11.7610000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 14:00:13.4460000; 06.05.2020 14:00:15.6030000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 14:01:56.2500000; 06.05.2020 14:02:33.5610000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 14:02:17.6510000; 06.05.2020 14:02:21.0010000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 14:03:13.8080000; 06.05.2020 14:03:15.3350000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 14:12:23.8530000; 06.05.2020 14:12:26.8690000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 06.05.2020 14:17:33.3010000; 06.05.2020 14:17:36.0770000
+754942; Beladestelle Scheibenmagazin aktiv   fehlt; sinumerik_alarm_plc_pmc; 06.05.2020 15:05:07.2050000; 06.05.2020 15:05:16.6640000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 15:07:50.8020000; 06.05.2020 15:08:00.2520000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 15:07:52.1340000; 06.05.2020 15:07:55.2280000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 15:18:19.3950000; 06.05.2020 15:19:02.9880000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 15:18:27.7010000; 06.05.2020 15:18:31.7030000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 06.05.2020 15:27:29.8940000; 06.05.2020 15:28:52.5900000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 06.05.2020 15:27:46.2170000; 06.05.2020 15:28:40.3080000
+; ----- Start Alarmerfassung -----; ; 07.05.2020 06:02:13.9880000; 07.05.2020 06:02:13.9880000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.1880000; 07.05.2020 06:02:54.3920000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.1880000; 07.05.2020 06:02:54.3920000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.1960000; 07.05.2020 06:02:54.4000000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.1960000; 07.05.2020 06:02:54.4000000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.1980000; 07.05.2020 06:02:54.4020000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.1980000; 07.05.2020 06:02:54.4020000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.1840000; 07.05.2020 06:02:55.2460000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.1840000; 07.05.2020 06:02:55.2620000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.1850000; 07.05.2020 06:02:55.3780000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.1850000; 07.05.2020 06:02:55.3940000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.1850000; 07.05.2020 06:02:55.4100000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.1850000; 07.05.2020 06:02:55.4260000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.5620000; 07.05.2020 06:02:54.7660000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.5620000; 07.05.2020 06:02:54.7660000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.5640000; 07.05.2020 06:02:54.7680000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.5640000; 07.05.2020 06:02:54.7680000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.5660000; 07.05.2020 06:02:54.7700000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 07.05.2020 06:02:54.5660000; 07.05.2020 06:02:54.7700000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.5560000; 07.05.2020 06:02:55.6980000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.5560000; 07.05.2020 06:02:55.7140000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.5560000; 07.05.2020 06:02:55.7300000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.5560000; 07.05.2020 06:02:55.7460000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 07.05.2020 06:02:54.5560000; 07.05.2020 06:02:55.7620000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 07:57:39.4960000; 07.05.2020 07:57:42.9190000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 08:00:34.9850000; 07.05.2020 08:00:37.1170000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 08:03:35.5680000; 07.05.2020 08:03:38.8400000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 08:06:58.3100000; 07.05.2020 08:07:00.5770000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 07.05.2020 09:43:11.6640000; 07.05.2020 09:45:51.7600000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 07.05.2020 09:47:20.9170000; 07.05.2020 09:47:54.8110000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 07.05.2020 09:47:32.1540000; 07.05.2020 09:47:38.6330000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 09:54:44.4090000; 07.05.2020 09:54:47.1890000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 09:56:23.2910000; 07.05.2020 09:56:25.5890000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 09:58:02.1910000; 07.05.2020 09:58:05.4980000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 10:50:56.9520000; 07.05.2020 10:50:58.1020000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 11:10:46.5120000; 07.05.2020 11:10:49.8130000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 11:12:24.7790000; 07.05.2020 11:12:28.0810000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 11:14:05.4070000; 07.05.2020 11:14:08.6990000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 11:14:57.6050000; 07.05.2020 11:15:01.1140000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 13:17:39.1010000; 07.05.2020 13:17:40.2730000
+6410; Werkzeug T='302200'#1 hat Vorwarngrenze erreicht mit D= 1; sinumerik_alarm_nck; 07.05.2020 13:21:06.0310000; 07.05.2020 13:21:14.1970000
+910001; Werkzeuglängenprüfeinheit 1: Werkzeugbruch Werkzeug : 302060 Duplonr.: 1 (Bruchstücke komplett aus der Spänerinne entfernen); ; 07.05.2020 13:28:03.2390000; 07.05.2020 13:31:28.7120000
+15350; Kanal 1: Satz 80795 Suchziel nicht gefunden; sinumerik_alarm_nck; 07.05.2020 14:01:09.5490000; 07.05.2020 14:01:13.8790000
+15350; Kanal 1: Satz 80795 Suchziel nicht gefunden; sinumerik_alarm_nck; 07.05.2020 14:01:25.1660000; 07.05.2020 14:01:30.0860000
+15350; Kanal 1: Satz 80795 Suchziel nicht gefunden; sinumerik_alarm_nck; 07.05.2020 14:01:40.9050000; 07.05.2020 14:01:44.3270000
+15350; Kanal 1: Satz 80795 Suchziel nicht gefunden; sinumerik_alarm_nck; 07.05.2020 14:02:22.5520000; 07.05.2020 14:02:27.3220000
+15350; Kanal 1: Satz 80795 Suchziel nicht gefunden; sinumerik_alarm_nck; 07.05.2020 14:02:40.7660000; 07.05.2020 14:02:42.2640000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 07.05.2020 14:04:20.0550000; 07.05.2020 14:04:57.3220000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 07.05.2020 14:04:27.8730000; 07.05.2020 14:04:34.2870000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 14:21:00.3670000; 07.05.2020 14:21:03.1040000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 14:22:38.0800000; 07.05.2020 14:22:41.1780000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 14:24:17.9060000; 07.05.2020 14:24:21.2510000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 07.05.2020 14:25:10.2110000; 07.05.2020 14:25:13.6940000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 07.05.2020 14:58:23.6540000; 07.05.2020 14:58:24.4430000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 07.05.2020 14:58:23.7580000; 07.05.2020 14:58:24.4430000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 07.05.2020 14:58:23.9340000; 07.05.2020 14:58:24.4430000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 07.05.2020 14:58:24.1420000; 07.05.2020 14:58:24.4430000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 07.05.2020 14:58:24.3500000; 07.05.2020 14:58:24.4430000
+16927; Kanal 2: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 07.05.2020 14:58:24.5620000; 07.05.2020 14:58:26.7920000
+; ----- Start Alarmerfassung -----; ; 08.05.2020 06:02:12.6870000; 08.05.2020 06:02:12.6870000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 08.05.2020 06:02:00.0090000; 08.05.2020 06:02:19.8930000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.3030000; 08.05.2020 06:02:52.5070000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.3030000; 08.05.2020 06:02:52.5070000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.3110000; 08.05.2020 06:02:52.5150000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.3110000; 08.05.2020 06:02:52.5150000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.3130000; 08.05.2020 06:02:52.5170000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.3130000; 08.05.2020 06:02:52.5170000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.2990000; 08.05.2020 06:02:53.3600000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.2990000; 08.05.2020 06:02:53.3760000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.2980000; 08.05.2020 06:02:53.4690000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.2980000; 08.05.2020 06:02:53.4840000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.2980000; 08.05.2020 06:02:53.5010000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.2980000; 08.05.2020 06:02:53.5800000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.6770000; 08.05.2020 06:02:52.8810000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.6770000; 08.05.2020 06:02:52.8810000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.6790000; 08.05.2020 06:02:52.8830000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.6790000; 08.05.2020 06:02:52.8830000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.6810000; 08.05.2020 06:02:52.8850000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:02:52.6810000; 08.05.2020 06:02:52.8850000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.6700000; 08.05.2020 06:02:53.8100000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.6700000; 08.05.2020 06:02:53.8520000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.6700000; 08.05.2020 06:02:53.8700000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.6700000; 08.05.2020 06:02:53.8840000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:02:52.6700000; 08.05.2020 06:02:53.9330000
+701048; A-Achse: Klemmung entblockt Druck (=1505FC2-BP1:2) fehlt; sinumerik_alarm_plc_pmc; 08.05.2020 06:16:31.6720000; 
+; ----- Start Alarmerfassung -----; ; 08.05.2020 06:22:52.3890000; 08.05.2020 06:22:52.3890000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.1220000; 08.05.2020 06:26:02.3260000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.1220000; 08.05.2020 06:26:02.3260000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.1300000; 08.05.2020 06:26:02.3340000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.1300000; 08.05.2020 06:26:02.3340000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.1320000; 08.05.2020 06:26:02.3360000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.1320000; 08.05.2020 06:26:02.3360000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.1190000; 08.05.2020 06:26:03.1750000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.1190000; 08.05.2020 06:26:03.1920000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.1200000; 08.05.2020 06:26:03.2710000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.1200000; 08.05.2020 06:26:03.2870000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.1200000; 08.05.2020 06:26:03.3030000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.1200000; 08.05.2020 06:26:03.3200000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.5080000; 08.05.2020 06:26:02.7120000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.5080000; 08.05.2020 06:26:02.7120000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.5100000; 08.05.2020 06:26:02.7140000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.5100000; 08.05.2020 06:26:02.7140000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.5120000; 08.05.2020 06:26:02.7160000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 08.05.2020 06:26:02.5120000; 08.05.2020 06:26:02.7160000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.5030000; 08.05.2020 06:26:03.6470000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.5030000; 08.05.2020 06:26:03.6670000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.5030000; 08.05.2020 06:26:03.6830000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.5030000; 08.05.2020 06:26:03.6990000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 08.05.2020 06:26:02.5030000; 08.05.2020 06:26:03.7150000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 08.05.2020 07:12:25.5900000; 08.05.2020 07:12:29.1180000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 08.05.2020 07:14:03.9500000; 08.05.2020 07:14:06.7030000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 08.05.2020 07:15:44.0370000; 08.05.2020 07:15:47.6500000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 08.05.2020 07:16:36.4660000; 08.05.2020 07:16:40.1670000
+910001; Werkzeuglängenprüfeinheit 1: Werkzeugbruch Werkzeug : 302060 Duplonr.: 1 (Bruchstücke komplett aus der Spänerinne entfernen); ; 08.05.2020 08:19:39.5080000; 08.05.2020 08:20:01.6080000
+27254; PROFIsafe: F-Modul 1014, Fehler auf Kanal IN 3; SI - KDV INSEP[36] - INSEP36; Schutztür Werkzeugwechsel Wartung; sinumerik_alarm_nck; 08.05.2020 10:18:14.4100000; 08.05.2020 10:47:44.2410000
+27021; Achse X_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse Y_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse Z_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse B_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse A_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse SP1 Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse Q_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse EL1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse ES1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse E_1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse ZM1_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+27021; Achse Y_2_ Stop D ausgelöst; sinumerik_alarm_nck; 08.05.2020 10:18:14.4140000; 08.05.2020 10:18:14.4160000
+700905; Profibus DPM1: mindestens ein Device im Strang ausgefallen (siehe Alarmprotokoll); sinumerik_alarm_plc_pmc; 08.05.2020 10:18:14.6200000; 08.05.2020 10:47:33.4320000
+909011; DP-Mastersystem(1) Adresse:6 Sammelstörung; ; 08.05.2020 10:18:15.7200000; 08.05.2020 10:18:18.9590000
+909011; DP-Mastersystem(1) Adresse:6 Sammelstörung; ; 08.05.2020 10:45:47.8710000; 08.05.2020 10:46:04.1420000
+909011; DP-Mastersystem(1) Adresse:6 Sammelstörung; ; 08.05.2020 10:46:19.2510000; 08.05.2020 10:47:09.6360000
+; ----- Start Alarmerfassung -----; ; 11.05.2020 06:02:16.9990000; 11.05.2020 06:02:16.9990000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:56.9780000; 11.05.2020 06:02:57.1820000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:56.9780000; 11.05.2020 06:02:57.1820000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:56.9860000; 11.05.2020 06:02:57.1900000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:56.9860000; 11.05.2020 06:02:57.1900000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:56.9880000; 11.05.2020 06:02:57.1920000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:56.9880000; 11.05.2020 06:02:57.1920000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:56.9740000; 11.05.2020 06:02:58.0350000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:56.9740000; 11.05.2020 06:02:58.0510000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:56.9740000; 11.05.2020 06:02:58.1590000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:56.9740000; 11.05.2020 06:02:58.1750000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:56.9740000; 11.05.2020 06:02:58.1910000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:56.9740000; 11.05.2020 06:02:58.2230000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:57.3520000; 11.05.2020 06:02:57.5560000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:57.3520000; 11.05.2020 06:02:57.5560000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:57.3540000; 11.05.2020 06:02:57.5580000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:57.3540000; 11.05.2020 06:02:57.5580000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:57.3560000; 11.05.2020 06:02:57.5600000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:02:57.3560000; 11.05.2020 06:02:57.5600000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:57.3460000; 11.05.2020 06:02:58.4880000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:57.3460000; 11.05.2020 06:02:58.5110000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:57.3460000; 11.05.2020 06:02:58.5280000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:57.3460000; 11.05.2020 06:02:58.5480000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:02:57.3460000; 11.05.2020 06:02:58.5680000
+701048; A-Achse: Klemmung entblockt Druck (=1505FC2-BP1:2) fehlt; sinumerik_alarm_plc_pmc; 11.05.2020 06:08:48.8000000; 
+; ----- Start Alarmerfassung -----; ; 11.05.2020 06:21:09.6800000; 11.05.2020 06:21:09.6800000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.3670000; 11.05.2020 06:21:56.5710000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.3670000; 11.05.2020 06:21:56.5710000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.3750000; 11.05.2020 06:21:56.5790000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.3750000; 11.05.2020 06:21:56.5790000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.3770000; 11.05.2020 06:21:56.5810000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.3770000; 11.05.2020 06:21:56.5810000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.3670000; 11.05.2020 06:21:57.4340000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.3670000; 11.05.2020 06:21:57.4540000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.3680000; 11.05.2020 06:21:57.5460000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.3680000; 11.05.2020 06:21:57.5620000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.3680000; 11.05.2020 06:21:57.5780000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.3680000; 11.05.2020 06:21:57.5970000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.7410000; 11.05.2020 06:21:56.9450000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.7410000; 11.05.2020 06:21:56.9450000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.7430000; 11.05.2020 06:21:56.9470000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.7430000; 11.05.2020 06:21:56.9470000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.7450000; 11.05.2020 06:21:56.9490000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 11.05.2020 06:21:56.7450000; 11.05.2020 06:21:56.9490000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.7390000; 11.05.2020 06:21:57.8700000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.7390000; 11.05.2020 06:21:57.8890000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.7390000; 11.05.2020 06:21:57.9050000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.7390000; 11.05.2020 06:21:57.9180000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 11.05.2020 06:21:56.7390000; 11.05.2020 06:21:57.9370000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 11.05.2020 06:56:48.3190000; 11.05.2020 06:56:57.9120000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 11.05.2020 06:56:50.4040000; 11.05.2020 06:56:53.5920000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 11.05.2020 07:01:06.0810000; 11.05.2020 07:01:42.3200000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 11.05.2020 07:01:22.4170000; 11.05.2020 07:01:31.8680000
+754942; Beladestelle Scheibenmagazin aktiv   fehlt; sinumerik_alarm_plc_pmc; 11.05.2020 07:14:46.1190000; 11.05.2020 07:15:15.3680000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 11.05.2020 07:16:01.9400000; 11.05.2020 07:16:24.8770000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 11.05.2020 07:16:03.7510000; 11.05.2020 07:16:11.1460000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 07:25:15.3670000; 11.05.2020 07:25:17.4930000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 07:26:55.5340000; 11.05.2020 07:26:58.1290000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 07:28:37.1150000; 11.05.2020 07:28:40.7070000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 07:29:30.4230000; 11.05.2020 07:29:33.2280000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 08:41:32.5780000; 11.05.2020 08:41:36.3060000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 08:43:11.3670000; 11.05.2020 08:43:14.4980000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 08:44:51.3400000; 11.05.2020 08:44:55.0110000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 08:45:44.4980000; 11.05.2020 08:45:47.2810000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 09:59:34.5560000; 11.05.2020 09:59:38.1920000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 10:01:13.0750000; 11.05.2020 10:01:16.6710000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 10:02:53.3390000; 11.05.2020 10:02:57.1830000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 10:03:45.9480000; 11.05.2020 10:03:49.5080000
+10621; Kanal 1: Achse X_1_ steht auf Softwareendschalter - ; sinumerik_alarm_nck; 11.05.2020 10:55:22.0510000; 11.05.2020 10:55:23.6760000
+510008; Vorsicht Crashgefahr! Achsen wurden in JOG verfahren und repositionieren auf kürzesten Weg zurück!; sinumerik_alarm_plc_pmc; 11.05.2020 11:02:43.9670000; 11.05.2020 11:02:53.7580000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 11:31:01.0750000; 11.05.2020 11:31:04.7890000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 11:32:39.7230000; 11.05.2020 11:32:43.0720000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 11:34:19.8990000; 11.05.2020 11:34:23.5560000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 11.05.2020 11:35:12.4530000; 11.05.2020 11:35:16.2220000
+27251; PROFIsafe: F-Modul 1022, Master meldet Fehler CRC; sinumerik_alarm_nck; 11.05.2020 14:30:40.0550000; 
+27021; Achse X_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse Y_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse Z_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse B_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse A_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse SP1 Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse Q_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse EL1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse ES1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse E_1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse ZM1_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+27021; Achse Y_2_ Stop D ausgelöst; sinumerik_alarm_nck; 11.05.2020 14:30:40.0590000; 
+; ----- Start Alarmerfassung -----; ; 12.05.2020 06:02:11.4830000; 12.05.2020 06:02:11.4830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 06:02:00.9630000; 12.05.2020 06:02:20.8000000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.5920000; 12.05.2020 06:02:53.7960000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.5920000; 12.05.2020 06:02:53.7960000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.6000000; 12.05.2020 06:02:53.8040000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.6000000; 12.05.2020 06:02:53.8040000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.6020000; 12.05.2020 06:02:53.8060000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.6020000; 12.05.2020 06:02:53.8060000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.5880000; 12.05.2020 06:02:54.6540000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.5880000; 12.05.2020 06:02:54.6700000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.5890000; 12.05.2020 06:02:54.7770000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.5890000; 12.05.2020 06:02:54.7930000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.5890000; 12.05.2020 06:02:54.8100000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.5890000; 12.05.2020 06:02:54.8260000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.9660000; 12.05.2020 06:02:54.1700000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.9660000; 12.05.2020 06:02:54.1700000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.9680000; 12.05.2020 06:02:54.1720000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.9680000; 12.05.2020 06:02:54.1720000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.9700000; 12.05.2020 06:02:54.1740000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 06:02:53.9700000; 12.05.2020 06:02:54.1740000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.9590000; 12.05.2020 06:02:55.0970000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.9590000; 12.05.2020 06:02:55.1140000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.9590000; 12.05.2020 06:02:55.1380000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.9590000; 12.05.2020 06:02:55.1550000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 06:02:53.9590000; 12.05.2020 06:02:55.1660000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 12.05.2020 07:24:49.3280000; 12.05.2020 07:25:23.2310000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 12.05.2020 07:25:11.2250000; 12.05.2020 07:25:14.1350000
+560127; Spindel: programmierte Drehzahl kleiner als die minimale Spindeldrehzahl; sinumerik_alarm_plc_pmc; 12.05.2020 07:37:32.9610000; 12.05.2020 07:39:08.2000000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 12.05.2020 07:40:37.8710000; 12.05.2020 07:41:05.0630000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 12.05.2020 07:40:52.5560000; 12.05.2020 07:40:57.2340000
+560127; Spindel: programmierte Drehzahl kleiner als die minimale Spindeldrehzahl; sinumerik_alarm_plc_pmc; 12.05.2020 07:41:22.3390000; 12.05.2020 07:41:48.9920000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 12.05.2020 07:45:18.9880000; 12.05.2020 07:45:51.1690000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 12.05.2020 07:45:33.8950000; 12.05.2020 07:45:40.2500000
+560127; Spindel: programmierte Drehzahl kleiner als die minimale Spindeldrehzahl; sinumerik_alarm_plc_pmc; 12.05.2020 07:46:01.5740000; 12.05.2020 07:46:18.6530000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 12.05.2020 07:48:14.5130000; 12.05.2020 07:48:40.9230000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 12.05.2020 07:48:29.3040000; 12.05.2020 07:48:34.1780000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 12.05.2020 10:45:10.8620000; 12.05.2020 10:46:30.3000000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 12.05.2020 10:48:12.4370000; 12.05.2020 10:48:48.5600000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 12.05.2020 10:48:34.1010000; 12.05.2020 10:48:37.5190000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:34.9440000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:35.1120000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:35.3200000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:35.5200000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:35.7200000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:35.9280000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:36.0960000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:36.3040000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:36.5120000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:36.7130000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:36.9210000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:37.1290000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:37.3290000; 12.05.2020 15:56:37.5950000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:37.4970000; 12.05.2020 15:56:37.5950000
+16927; Kanal 2: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 12.05.2020 15:56:37.7170000; 12.05.2020 15:56:39.4340000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:48.7510000; 12.05.2020 15:58:48.9550000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:48.7510000; 12.05.2020 15:58:48.9550000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:48.7590000; 12.05.2020 15:58:48.9630000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:48.7590000; 12.05.2020 15:58:48.9630000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:48.7610000; 12.05.2020 15:58:48.9650000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:48.7610000; 12.05.2020 15:58:48.9650000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:48.7530000; 12.05.2020 15:58:49.8050000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:48.7530000; 12.05.2020 15:58:49.8290000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:48.7540000; 12.05.2020 15:58:49.9210000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:48.7540000; 12.05.2020 15:58:49.9340000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:48.7540000; 12.05.2020 15:58:49.9500000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:48.7540000; 12.05.2020 15:58:49.9660000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:49.3410000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:49.3410000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:49.1390000; 12.05.2020 15:58:49.3430000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:49.1390000; 12.05.2020 15:58:49.3430000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:49.1410000; 12.05.2020 15:58:49.3450000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 12.05.2020 15:58:49.1410000; 12.05.2020 15:58:49.3450000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:50.2780000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:50.2980000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:50.3130000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:50.3290000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 12.05.2020 15:58:49.1370000; 12.05.2020 15:58:50.3450000
+; ----- Start Alarmerfassung -----; ; 13.05.2020 05:32:12.2830000; 13.05.2020 05:32:12.2830000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.4390000; 13.05.2020 05:48:41.6430000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.4390000; 13.05.2020 05:48:41.6430000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.4470000; 13.05.2020 05:48:41.6510000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.4470000; 13.05.2020 05:48:41.6510000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.4490000; 13.05.2020 05:48:41.6530000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.4490000; 13.05.2020 05:48:41.6530000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.4360000; 13.05.2020 05:48:42.4930000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.4360000; 13.05.2020 05:48:42.5090000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.4350000; 13.05.2020 05:48:42.6200000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.4350000; 13.05.2020 05:48:42.6360000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.4350000; 13.05.2020 05:48:42.6680000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.4350000; 13.05.2020 05:48:42.6920000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.8130000; 13.05.2020 05:48:42.0170000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.8130000; 13.05.2020 05:48:42.0170000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.8150000; 13.05.2020 05:48:42.0190000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.8150000; 13.05.2020 05:48:42.0190000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.8170000; 13.05.2020 05:48:42.0210000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 13.05.2020 05:48:41.8170000; 13.05.2020 05:48:42.0210000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.8070000; 13.05.2020 05:48:42.9520000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.8070000; 13.05.2020 05:48:42.9680000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.8070000; 13.05.2020 05:48:42.9840000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.8070000; 13.05.2020 05:48:43
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 13.05.2020 05:48:41.8070000; 13.05.2020 05:48:43.0160000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 13.05.2020 10:31:37.8310000; 13.05.2020 10:31:48.2150000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 13.05.2020 10:31:39.6590000; 13.05.2020 10:31:44.3160000
+15350; Kanal 1: Satz N1040 Suchziel nicht gefunden; sinumerik_alarm_nck; 13.05.2020 11:08:11.1460000; 13.05.2020 11:08:20.2160000
+27251; PROFIsafe: F-Modul 1021, Master meldet Fehler CRC; sinumerik_alarm_nck; 13.05.2020 13:37:42.5460000; 
+27021; Achse X_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse Y_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse Z_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse B_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse A_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse SP1 Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse Q_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse EL1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse ES1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse E_1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse ZM1_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+27021; Achse Y_2_ Stop D ausgelöst; sinumerik_alarm_nck; 13.05.2020 13:37:42.5500000; 
+380075; PROFIBUS/PROFINET: Ausfall DP-Peripherie Bus 1 Slave/Device 6 logische Basisadresse ; sinumerik_alarm_nck_drive; 13.05.2020 13:37:42.6030000; 
+20144; Kanal 1: Satz N64300 Bewegungssynchronaktion: IDS=876 Zugriff auf Systemvariable nicht möglich; sinumerik_alarm_nck; 13.05.2020 13:37:42.6060000; 
+27252; PROFIsafe: Slave/Device IM155-6 DP HF V3.1, Bus 1, Lebenszeichen-Fehler; sinumerik_alarm_nck; 13.05.2020 13:37:42.6260000; 
+700122; Maschinensteuertafel Schubert MCI-2 ausgefallen; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.6240000; 
+380075; PROFIBUS/PROFINET: Ausfall DP-Peripherie Bus 1 Slave/Device 3 logische Basisadresse ; sinumerik_alarm_nck_drive; 13.05.2020 13:37:42.7540000; 
+700316; Schutzschalter i.O. <Sofort Halt> (=1705C-QA3:14) fehlt; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.6570000; 
+909011; DP-Mastersystem(1) Adresse:6 Sammelstörung; ; 13.05.2020 13:37:43.0890000; 
+909011; DP-Mastersystem(1) Adresse:12 Sammelstörung; ; 13.05.2020 13:37:43.0890000; 
+909011; DP-Mastersystem(1) Adresse:71 Sammelstörung; ; 13.05.2020 13:37:43.0890000; 
+700318; Schutzschalter i.O. <Halt nach Taktende> (=12005C-QA1:14) fehlt; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.6570000; 
+700319; Schutzschalter i.O. <Sofort Halt> (=240C-FC1:SIG:S3) fehlt; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.6570000; 
+700320; Schutzschalter i.O. <Sofort Halt> (=240C-FC2:SIG:S3) fehlt; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.6570000; 
+700323; Schutzschalter i.O. <Halt in Transportfreigabe> (=11010C-QA1:14) fehlt; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.6570000; 
+703738; Beladetür: Kommunikationsfehler; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.7310000; 
+703744; Beladetür: Überlastet (Md> Schwellenmoment Mdx Sinamics p2194); sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.7310000; 
+705540; Not-Halt am Haupt-Bedienfeld wurde ausgelöst.; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.7640000; 
+705541; Not-Halt am Bedienhandgerät wurde ausgelöst.; sinumerik_alarm_plc_pmc; 13.05.2020 13:37:42.7640000; 
+; ----- Start Alarmerfassung -----; ; 14.05.2020 08:52:44.5690000; 14.05.2020 08:52:44.5690000
+; ----- Start Alarmerfassung -----; ; 25.05.2020 06:22:01.2130000; 25.05.2020 06:22:01.2130000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.2430000; 25.05.2020 06:27:46.4470000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.2430000; 25.05.2020 06:27:46.4470000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.2510000; 25.05.2020 06:27:46.4550000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.2510000; 25.05.2020 06:27:46.4550000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.2530000; 25.05.2020 06:27:46.4570000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.2530000; 25.05.2020 06:27:46.4570000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.2400000; 25.05.2020 06:27:47.3050000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.2400000; 25.05.2020 06:27:47.3200000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.2410000; 25.05.2020 06:27:47.4090000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.2410000; 25.05.2020 06:27:47.4240000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.2410000; 25.05.2020 06:27:47.4410000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.2400000; 25.05.2020 06:27:47.4730000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.6170000; 25.05.2020 06:27:46.8210000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.6170000; 25.05.2020 06:27:46.8210000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.6190000; 25.05.2020 06:27:46.8230000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.6190000; 25.05.2020 06:27:46.8230000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.6210000; 25.05.2020 06:27:46.8250000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:27:46.6210000; 25.05.2020 06:27:46.8250000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.6120000; 25.05.2020 06:27:47.7530000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.6120000; 25.05.2020 06:27:47.7690000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.6120000; 25.05.2020 06:27:47.7860000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.6120000; 25.05.2020 06:27:47.8010000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:27:46.6120000; 25.05.2020 06:27:47.8730000
+700649; Spindel 1 Vorschubsperre: Drehzahlüberschreitung bei nicht eingelaufener Spindel (nmax = 500 1/min) -> Startup-Cycle ausführen; sinumerik_alarm_plc_pmc; 25.05.2020 06:42:05.3470000; 25.05.2020 06:42:46.9530000
+700649; Spindel 1 Vorschubsperre: Drehzahlüberschreitung bei nicht eingelaufener Spindel (nmax = 500 1/min) -> Startup-Cycle ausführen; sinumerik_alarm_plc_pmc; 25.05.2020 06:42:48.8480000; 25.05.2020 06:42:51.5710000
+701048; A-Achse: Klemmung entblockt Druck (=1505FC2-BP1:2) fehlt; sinumerik_alarm_plc_pmc; 25.05.2020 06:45:54.0660000; 
+27251; PROFIsafe: F-Modul 1021, Master meldet Fehler CRC; sinumerik_alarm_nck; 25.05.2020 06:48:00.4390000; 
+27021; Achse X_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse Y_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse Z_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse B_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse A_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse SP1 Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse Q_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse EL1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse ES1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse E_1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse ZM1_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+27021; Achse Y_2_ Stop D ausgelöst; sinumerik_alarm_nck; 25.05.2020 06:48:00.4430000; 
+380075; PROFIBUS/PROFINET: Ausfall DP-Peripherie Bus 1 Slave/Device 6 logische Basisadresse ; sinumerik_alarm_nck_drive; 25.05.2020 06:48:00.4990000; 
+20144; Kanal 1: Satz N64300 Bewegungssynchronaktion: IDS=876 Zugriff auf Systemvariable nicht möglich; sinumerik_alarm_nck; 25.05.2020 06:48:00.5000000; 
+27252; PROFIsafe: Slave/Device IM155-6 DP HF V3.1, Bus 1, Lebenszeichen-Fehler; sinumerik_alarm_nck; 25.05.2020 06:48:00.5190000; 
+380075; PROFIBUS/PROFINET: Ausfall DP-Peripherie Bus 1 Slave/Device 3 logische Basisadresse ; sinumerik_alarm_nck_drive; 25.05.2020 06:48:00.6470000; 
+700122; Maschinensteuertafel Schubert MCI-2 ausgefallen; sinumerik_alarm_plc_pmc; 25.05.2020 06:48:00.5270000; 
+700316; Schutzschalter i.O. <Sofort Halt> (=1705C-QA3:14) fehlt; sinumerik_alarm_plc_pmc; 25.05.2020 06:48:00.5600000; 
+700318; Schutzschalter i.O. <Halt nach Taktende> (=12005C-QA1:14) fehlt; sinumerik_alarm_plc_pmc; 25.05.2020 06:48:00.5600000; 
+909011; DP-Mastersystem(1) Adresse:3 Sammelstörung; ; 25.05.2020 06:48:01.1440000; 
+909011; DP-Mastersystem(1) Adresse:6 Sammelstörung; ; 25.05.2020 06:48:01.1440000; 
+909011; DP-Mastersystem(1) Adresse:12 Sammelstörung; ; 25.05.2020 06:48:01.1450000; 
+909011; DP-Mastersystem(1) Adresse:71 Sammelstörung; ; 25.05.2020 06:48:01.1450000; 
+700319; Schutzschalter i.O. <Sofort Halt> (=240C-FC1:SIG:S3) fehlt; sinumerik_alarm_plc_pmc; 25.05.2020 06:48:00.5600000; 
+700320; Schutzschalter i.O. <Sofort Halt> (=240C-FC2:SIG:S3) fehlt; sinumerik_alarm_plc_pmc; 25.05.2020 06:48:00.5600000; 
+; ----- Start Alarmerfassung -----; ; 25.05.2020 06:50:18.2180000; 25.05.2020 06:50:18.2180000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.3220000; 25.05.2020 06:51:51.5260000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.3220000; 25.05.2020 06:51:51.5260000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.3300000; 25.05.2020 06:51:51.5340000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.3300000; 25.05.2020 06:51:51.5340000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.3320000; 25.05.2020 06:51:51.5360000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.3320000; 25.05.2020 06:51:51.5360000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.3180000; 25.05.2020 06:51:52.3850000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.3180000; 25.05.2020 06:51:52.4000000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.3190000; 25.05.2020 06:51:52.4880000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.3190000; 25.05.2020 06:51:52.5040000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.3190000; 25.05.2020 06:51:52.5210000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.3190000; 25.05.2020 06:51:52.5360000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.6960000; 25.05.2020 06:51:51.9000000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.6960000; 25.05.2020 06:51:51.9000000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.6980000; 25.05.2020 06:51:51.9020000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.6980000; 25.05.2020 06:51:51.9020000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.7000000; 25.05.2020 06:51:51.9040000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 25.05.2020 06:51:51.7000000; 25.05.2020 06:51:51.9040000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.6900000; 25.05.2020 06:51:52.8440000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.6900000; 25.05.2020 06:51:52.8680000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.6900000; 25.05.2020 06:51:52.8920000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.6900000; 25.05.2020 06:51:52.9200000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 25.05.2020 06:51:51.6900000; 25.05.2020 06:51:52.9400000
+; ----- Start Alarmerfassung -----; ; 26.05.2020 06:02:14.0660000; 26.05.2020 06:02:14.0660000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:53.8320000; 26.05.2020 06:02:54.0360000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:53.8320000; 26.05.2020 06:02:54.0360000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:53.8400000; 26.05.2020 06:02:54.0440000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:53.8400000; 26.05.2020 06:02:54.0440000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:53.8420000; 26.05.2020 06:02:54.0460000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:53.8420000; 26.05.2020 06:02:54.0460000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:53.8270000; 26.05.2020 06:02:54.8860000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:53.8270000; 26.05.2020 06:02:54.9010000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:53.8270000; 26.05.2020 06:02:55.0500000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:53.8270000; 26.05.2020 06:02:55.0660000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:53.8270000; 26.05.2020 06:02:55.0820000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:53.8270000; 26.05.2020 06:02:55.0980000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:54.2060000; 26.05.2020 06:02:54.4100000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:54.2060000; 26.05.2020 06:02:54.4100000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:54.2080000; 26.05.2020 06:02:54.4120000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:54.2080000; 26.05.2020 06:02:54.4120000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:54.2100000; 26.05.2020 06:02:54.4140000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 06:02:54.2100000; 26.05.2020 06:02:54.4140000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:54.1990000; 26.05.2020 06:02:55.3470000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:54.1990000; 26.05.2020 06:02:55.3630000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:54.1990000; 26.05.2020 06:02:55.3790000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:54.1990000; 26.05.2020 06:02:55.3950000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 06:02:54.1990000; 26.05.2020 06:02:55.4110000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+6412; Werkzeug T='302200'#1 hat Überwachungsgrenze erreicht mit D= 1; sinumerik_alarm_nck; 26.05.2020 09:10:38.8650000; 26.05.2020 09:11:00.3980000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 26.05.2020 12:53:39.8030000; 26.05.2020 12:53:41.1270000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 26.05.2020 12:54:52.4560000; 26.05.2020 12:54:53.5680000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 26.05.2020 13:16:13.3670000; 26.05.2020 13:16:15.2520000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 26.05.2020 13:18:18.6060000; 26.05.2020 13:18:20.8120000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 26.05.2020 13:19:01.9060000; 26.05.2020 13:19:03.0050000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:11.9550000; 26.05.2020 15:14:12.1590000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:11.9550000; 26.05.2020 15:14:12.1590000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:11.9630000; 26.05.2020 15:14:12.1670000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:11.9630000; 26.05.2020 15:14:12.1670000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:11.9650000; 26.05.2020 15:14:12.1690000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:11.9650000; 26.05.2020 15:14:12.1690000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:11.9520000; 26.05.2020 15:14:13.0130000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:11.9520000; 26.05.2020 15:14:13.0290000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:11.9520000; 26.05.2020 15:14:13.1290000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:11.9520000; 26.05.2020 15:14:13.1450000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:11.9520000; 26.05.2020 15:14:13.1610000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:11.9520000; 26.05.2020 15:14:13.2250000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:12.3410000; 26.05.2020 15:14:12.5450000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:12.3410000; 26.05.2020 15:14:12.5450000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:12.3430000; 26.05.2020 15:14:12.5470000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:12.3430000; 26.05.2020 15:14:12.5470000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:12.3450000; 26.05.2020 15:14:12.5490000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 26.05.2020 15:14:12.3450000; 26.05.2020 15:14:12.5490000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:12.3360000; 26.05.2020 15:14:13.4820000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:12.3360000; 26.05.2020 15:14:13.5010000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:12.3360000; 26.05.2020 15:14:13.5140000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:12.3360000; 26.05.2020 15:14:13.5330000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 26.05.2020 15:14:12.3360000; 26.05.2020 15:14:13.5570000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:41.1830000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:41.3910000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:41.5670000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:41.7750000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:41.9830000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:42.1910000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:42.3590000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:42.5670000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:42.7750000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:42.9750000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:43.1910000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:43.3600000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:43.5680000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:43.7680000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:43.9760000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:44.1840000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:44.3920000; 26.05.2020 15:14:44.7650000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:44.5600000; 26.05.2020 15:14:44.7650000
+16927; Kanal 2: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 26.05.2020 15:14:44.8840000; 26.05.2020 15:14:46.7330000
+; ----- Start Alarmerfassung -----; ; 27.05.2020 06:02:12.9510000; 27.05.2020 06:02:12.9510000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.0600000; 27.05.2020 06:02:53.2640000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.0600000; 27.05.2020 06:02:53.2640000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.0680000; 27.05.2020 06:02:53.2720000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.0680000; 27.05.2020 06:02:53.2720000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.0700000; 27.05.2020 06:02:53.2740000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.0700000; 27.05.2020 06:02:53.2740000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.0560000; 27.05.2020 06:02:54.1170000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.0560000; 27.05.2020 06:02:54.1340000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.0580000; 27.05.2020 06:02:54.2210000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.0580000; 27.05.2020 06:02:54.2530000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.0580000; 27.05.2020 06:02:54.2700000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.0580000; 27.05.2020 06:02:54.2860000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.4340000; 27.05.2020 06:02:53.6380000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.4340000; 27.05.2020 06:02:53.6380000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.4360000; 27.05.2020 06:02:53.6400000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.4360000; 27.05.2020 06:02:53.6400000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.4380000; 27.05.2020 06:02:53.6420000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 27.05.2020 06:02:53.4380000; 27.05.2020 06:02:53.6420000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.4290000; 27.05.2020 06:02:54.5750000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.4290000; 27.05.2020 06:02:54.5900000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.4290000; 27.05.2020 06:02:54.6070000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.4290000; 27.05.2020 06:02:54.6420000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 27.05.2020 06:02:53.4290000; 27.05.2020 06:02:54.6940000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 07:30:13.9070000; 27.05.2020 07:30:15.3080000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 07:30:59.8420000; 27.05.2020 07:31:00.9620000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 07:43:47.6340000; 27.05.2020 07:43:49.7230000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 07:44:39.9790000; 27.05.2020 07:44:41.1500000
+754820; Werkzeugdaten in Greifer 1 vorhanden   fehlt; sinumerik_alarm_plc_pmc; 27.05.2020 07:53:08.1510000; 27.05.2020 07:59:30.8950000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 09:12:42.1320000; 27.05.2020 09:12:43.2980000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 09:13:24.6830000; 27.05.2020 09:13:25.8130000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 09:26:09.6230000; 27.05.2020 09:26:11.6710000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 09:26:33.8030000; 27.05.2020 09:26:34.9920000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 09:31:01.2850000; 27.05.2020 09:31:02.4320000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 10:52:12.0140000; 27.05.2020 10:52:13.1860000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 10:52:54.3640000; 27.05.2020 10:52:55.7280000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 11:05:18.5850000; 27.05.2020 11:05:19.7540000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 11:05:39.7820000; 27.05.2020 11:05:41.8260000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 11:06:03.6630000; 27.05.2020 11:06:04.8420000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 12:57:30.0630000; 27.05.2020 12:57:31.4350000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 12:58:12.7550000; 27.05.2020 12:58:13.8830000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 13:10:35.9600000; 27.05.2020 13:10:38.1150000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 13:10:58.0490000; 27.05.2020 13:10:59.9810000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 27.05.2020 13:11:22.1050000; 27.05.2020 13:11:23.2660000
+; ----- Start Alarmerfassung -----; ; 28.05.2020 06:02:13.0750000; 28.05.2020 06:02:13.0750000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 06:01:59.4520000; 28.05.2020 06:02:19.3220000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.2340000; 28.05.2020 06:18:37.4380000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.2340000; 28.05.2020 06:18:37.4380000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.2420000; 28.05.2020 06:18:37.4460000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.2420000; 28.05.2020 06:18:37.4460000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.2440000; 28.05.2020 06:18:37.4480000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.2440000; 28.05.2020 06:18:37.4480000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.2320000; 28.05.2020 06:18:38.2920000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.2320000; 28.05.2020 06:18:38.3150000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.2330000; 28.05.2020 06:18:38.3920000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.2330000; 28.05.2020 06:18:38.4070000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.2330000; 28.05.2020 06:18:38.4230000
+201798; Achse SP1 DRV_3.3:7 (18), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.2330000; 28.05.2020 06:18:38.5110000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.6080000; 28.05.2020 06:18:37.8120000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.6080000; 28.05.2020 06:18:37.8120000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.6100000; 28.05.2020 06:18:37.8140000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.6100000; 28.05.2020 06:18:37.8140000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.6120000; 28.05.2020 06:18:37.8160000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 28.05.2020 06:18:37.6120000; 28.05.2020 06:18:37.8160000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.6050000; 28.05.2020 06:18:38.7470000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.6050000; 28.05.2020 06:18:38.7630000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.6050000; 28.05.2020 06:18:38.7790000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.6050000; 28.05.2020 06:18:38.7950000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 28.05.2020 06:18:37.6050000; 28.05.2020 06:18:38.8110000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 28.05.2020 07:21:07.5680000; 28.05.2020 07:21:08.9560000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 28.05.2020 07:21:50.2510000; 28.05.2020 07:21:51.4110000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 28.05.2020 07:34:13.7590000; 28.05.2020 07:34:15.5250000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 28.05.2020 07:34:35.4680000; 28.05.2020 07:34:37.3840000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 28.05.2020 07:34:59.3950000; 28.05.2020 07:35:00.5710000
+120200; Bildaufbereitung unterdrückt, bitte warten.; sinumerik_alarm_hmi; 28.05.2020 07:39:26.8780000; 28.05.2020 07:39:27.9800000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 28.05.2020 07:56:13.1370000; 28.05.2020 07:59:51.7750000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 08:01:55.3240000; 28.05.2020 08:02:20.5890000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 08:01:59.6190000; 28.05.2020 08:02:06.0980000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 28.05.2020 08:03:56.2430000; 28.05.2020 08:05:02.5340000
+61303; Kanal 1: Satz N697728: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 28.05.2020 08:05:02.8140000; 28.05.2020 08:06:28.1800000
+16906; Kanal 1: Programmbeeinflussung: Aktion 'Angewählte Verarbeitung starten' wegen eines Alarms abgebrochen; sinumerik_alarm_nck; 28.05.2020 08:05:56.4950000; 28.05.2020 08:06:12.7520000
+16906; Kanal 1: Programmbeeinflussung: Aktion 'Angewählte Verarbeitung starten' wegen eines Alarms abgebrochen; sinumerik_alarm_nck; 28.05.2020 08:06:26.3670000; 28.05.2020 08:06:27.6370000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 08:07:30.9600000; 28.05.2020 08:08:05.1380000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 08:07:35.5170000; 28.05.2020 08:07:46.4090000
+62303; Kanal 1: Satz N1153: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 28.05.2020 08:09:24.9830000; 28.05.2020 08:09:40.4400000
+61303; Kanal 1: Satz N697728: Vertrauensbereich überschritten ; sinumerik_alarm_nck; 28.05.2020 08:09:40.7000000; 28.05.2020 08:09:48.0240000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 08:11:14.3320000; 28.05.2020 08:11:52.5010000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 08:11:19.2140000; 28.05.2020 08:11:25.1130000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 09:54:12.3200000; 28.05.2020 09:54:48.4270000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 09:54:31.9340000; 28.05.2020 09:54:37.3810000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 10:07:36.7840000; 28.05.2020 10:08:09.6490000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 10:07:56.7150000; 28.05.2020 10:08:02.5540000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 10:20:07.0450000; 28.05.2020 10:20:41.9890000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 10:20:26.9790000; 28.05.2020 10:20:31.1850000
+910001; Werkzeuglängenprüfeinheit 1: Werkzeugbruch Werkzeug : 202023 Duplonr.: 1 (Bruchstücke komplett aus der Spänerinne entfernen); ; 28.05.2020 14:25:31.8610000; 28.05.2020 14:35:19.1790000
+15350; Kanal 1: Satz 1401 Suchziel nicht gefunden; sinumerik_alarm_nck; 28.05.2020 15:23:27.0860000; 28.05.2020 15:23:30.3610000
+15350; Kanal 1: Satz 1401 Suchziel nicht gefunden; sinumerik_alarm_nck; 28.05.2020 15:23:40.5290000; 28.05.2020 15:23:44.0380000
+15350; Kanal 1: Satz 1401 Suchziel nicht gefunden; sinumerik_alarm_nck; 28.05.2020 15:24:00.6560000; 28.05.2020 15:24:03.4310000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:25:17.6980000; 28.05.2020 15:26:00.9970000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 15:25:33.9200000; 28.05.2020 15:25:41.0550000
+910001; Werkzeuglängenprüfeinheit 1: Werkzeugbruch Werkzeug : 202023 Duplonr.: 1 (Bruchstücke komplett aus der Spänerinne entfernen); ; 28.05.2020 15:28:06.7400000; 28.05.2020 15:28:37.6510000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:35:36.5330000; 28.05.2020 15:36:06.0370000
+704318; Werkzeugwechsel ohne T-Anwahl ist nicht möglich; sinumerik_alarm_plc_pmc; 28.05.2020 15:35:37.0290000; 28.05.2020 15:36:06.1130000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:36:22.4800000; 28.05.2020 15:36:47.5450000
+704318; Werkzeugwechsel ohne T-Anwahl ist nicht möglich; sinumerik_alarm_plc_pmc; 28.05.2020 15:36:22.9800000; 28.05.2020 15:36:47.6200000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:37:14.7320000; 28.05.2020 15:37:27.8660000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:38:31.6750000; 28.05.2020 15:38:59.4110000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:09.5040000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:09.6480000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:09.8560000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:10.0720000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:10.2480000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:10.4560000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:10.6720000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:10.8480000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:11.0560000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:11.2720000; 28.05.2020 15:39:11.6830000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:11.4480000; 28.05.2020 15:39:11.6830000
+16927; Kanal 2: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 15:39:11.8050000; 28.05.2020 15:39:16.7920000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:40:07.0920000; 28.05.2020 15:40:50.0850000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 15:40:16.7710000; 28.05.2020 15:40:21.8690000
+910001; Werkzeuglängenprüfeinheit 1: Werkzeugbruch Werkzeug : 202023 Duplonr.: 1 (Bruchstücke komplett aus der Spänerinne entfernen); ; 28.05.2020 15:40:29.6300000; 28.05.2020 15:41:03.6300000
+15350; Kanal 1: Satz 1401 Suchziel nicht gefunden; sinumerik_alarm_nck; 28.05.2020 15:42:09.9920000; 28.05.2020 15:42:11.9930000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 28.05.2020 15:42:44.8810000; 28.05.2020 15:44:13.3110000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 28.05.2020 15:42:53.4370000; 28.05.2020 15:42:58.8870000
+754820; Werkzeugdaten in Greifer 1 vorhanden   fehlt; sinumerik_alarm_plc_pmc; 28.05.2020 15:49:22.1610000; 28.05.2020 15:49:24.9410000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:08.8570000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:09.0330000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:09.2490000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:09.4570000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:09.6650000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:09.8410000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:10.0490000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:10.2650000; 28.05.2020 16:04:10.6700000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:10.4330000; 28.05.2020 16:04:10.6700000
+16927; Kanal 2: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 28.05.2020 16:04:10.7890000; 28.05.2020 16:04:12.7840000
+; ----- Start Alarmerfassung -----; ; 29.05.2020 06:02:19.2670000; 29.05.2020 06:02:19.2670000
+27002; Achse X_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.1460000; 29.05.2020 06:02:57.3510000
+27002; Achse Y_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.1470000; 29.05.2020 06:02:57.3510000
+27002; Achse A_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.1540000; 29.05.2020 06:02:57.3590000
+27002; Achse SP1 Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.1540000; 29.05.2020 06:02:57.3590000
+27002; Achse Z_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.1560000; 29.05.2020 06:02:57.3610000
+27002; Achse B_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.1560000; 29.05.2020 06:02:57.3610000
+201798; Achse B_1_ DRV_3.14:2 (15), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.1410000; 29.05.2020 06:02:58.2200000
+201798; Achse A_1_ DRV_3.14:3 (17), Komponente NX_104 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.1410000; 29.05.2020 06:02:58.2370000
+201798; Achse X_1_ DRV_3.3:3 (11), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.1410000; 29.05.2020 06:02:58.3160000
+201798; Achse Y_1_ DRV_3.3:5 (12), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.1410000; 29.05.2020 06:02:58.3320000
+201798; Achse Z_1_ DRV_3.3:4 (13), Komponente NCU_01 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.1410000; 29.05.2020 06:02:58.4200000
+27002; Achse ZM1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.5210000; 29.05.2020 06:02:57.7250000
+27002; Achse Y_2_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.5210000; 29.05.2020 06:02:57.7250000
+27002; Achse ES1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.5230000; 29.05.2020 06:02:57.7270000
+27002; Achse E_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.5230000; 29.05.2020 06:02:57.7270000
+27002; Achse Q_1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.5250000; 29.05.2020 06:02:57.7290000
+27002; Achse EL1_ Teststop läuft; sinumerik_alarm_nck; 29.05.2020 06:02:57.5250000; 29.05.2020 06:02:57.7290000
+201798; Achse Q_1_ DRV_3.15:2 (22), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.5130000; 29.05.2020 06:02:58.6440000
+201798; Achse EL1_ DRV_3.15:4 (24), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.5130000; 29.05.2020 06:02:58.6640000
+201798; Achse ES1_ DRV_3.15:6 (26), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.5130000; 29.05.2020 06:02:58.6880000
+201798; Achse E_1_ DRV_3.15:5 (28), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.5130000; 29.05.2020 06:02:58.7090000
+201798; Achse ZM1_ DRV_3.15:3 (30), Komponente NX_105 (1):SI Motion P1 (CU): Teststopp für Bewegungsüberwachungen läuft.; fhy101011_05103400; 29.05.2020 06:02:57.5130000; 29.05.2020 06:02:58.7280000
+10621; Kanal 1: Achse Z_1_ steht auf Softwareendschalter  ; sinumerik_alarm_nck; 29.05.2020 07:23:05.5180000; 29.05.2020 07:23:07.6340000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 29.05.2020 07:23:25.6440000; 29.05.2020 07:23:49.1550000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 29.05.2020 07:23:36.6700000; 29.05.2020 07:23:42.3450000
+754942; Beladestelle Scheibenmagazin aktiv   fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 08:06:43.9470000; 29.05.2020 08:06:48.5600000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 29.05.2020 08:51:22.8500000; 29.05.2020 08:52:17.8300000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 29.05.2020 08:51:37.9590000; 29.05.2020 08:51:42.0570000
+754942; Beladestelle Scheibenmagazin aktiv   fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 08:58:55.9840000; 29.05.2020 09:01:05.4060000
+700208; Achtung: Durch Satzsuchlauf erfolgte Programmanwahl manuell! Programm fortsetzen mit NC-Start; sinumerik_alarm_plc_pmc; 29.05.2020 09:01:27.8380000; 29.05.2020 09:01:51.5460000
+10208; Kanal 1: Zur Programmfortsetzung NC-Start geben; sinumerik_alarm_nck; 29.05.2020 09:01:29.3160000; 29.05.2020 09:01:42.2120000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:30.0960000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:30.2400000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:30.4400000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:30.6480000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:30.8560000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:31.0250000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:31.2330000; 29.05.2020 11:44:31.2910000
+16927; Kanal 1: Aktion 'Wechsel in Programmbetriebsart' bei aktiver Interrupt-Behandlung nicht erlaubt; sinumerik_alarm_nck; 29.05.2020 11:44:31.4770000; 29.05.2020 11:44:33.4380000
+27251; PROFIsafe: F-Modul 1020, Master meldet Fehler CRC; sinumerik_alarm_nck; 29.05.2020 11:45:39.9750000; 
+27021; Achse X_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse Y_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse Z_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse B_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse A_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse SP1 Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse Q_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse EL1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse ES1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse E_1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse ZM1_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+27021; Achse Y_2_ Stop D ausgelöst; sinumerik_alarm_nck; 29.05.2020 11:45:39.9790000; 
+380075; PROFIBUS/PROFINET: Ausfall DP-Peripherie Bus 1 Slave/Device 6 logische Basisadresse ; sinumerik_alarm_nck_drive; 29.05.2020 11:45:40.0450000; 
+20144; Kanal 1: Satz N64300 Bewegungssynchronaktion: IDS=876 Zugriff auf Systemvariable nicht möglich; sinumerik_alarm_nck; 29.05.2020 11:45:40.0470000; 
+27252; PROFIsafe: Slave/Device IM155-6 DP HF V3.1, Bus 1, Lebenszeichen-Fehler; sinumerik_alarm_nck; 29.05.2020 11:45:40.0710000; 
+380075; PROFIBUS/PROFINET: Ausfall DP-Peripherie Bus 1 Slave/Device 3 logische Basisadresse ; sinumerik_alarm_nck_drive; 29.05.2020 11:45:40.2070000; 
+700316; Schutzschalter i.O. <Sofort Halt> (=1705C-QA3:14) fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 11:45:40.0760000; 
+700318; Schutzschalter i.O. <Halt nach Taktende> (=12005C-QA1:14) fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 11:45:40.0760000; 
+700319; Schutzschalter i.O. <Sofort Halt> (=240C-FC1:SIG:S3) fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 11:45:40.0760000; 
+700320; Schutzschalter i.O. <Sofort Halt> (=240C-FC2:SIG:S3) fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 11:45:40.0760000; 
+700323; Schutzschalter i.O. <Halt in Transportfreigabe> (=11010C-QA1:14) fehlt; sinumerik_alarm_plc_pmc; 29.05.2020 11:45:40.0760000; 
+909011; DP-Mastersystem(1) Adresse:3 Sammelstörung; ; 29.05.2020 11:45:41.0950000; 
+909011; DP-Mastersystem(1) Adresse:6 Sammelstörung; ; 29.05.2020 11:45:41.0960000; 
+909011; DP-Mastersystem(1) Adresse:12 Sammelstörung; ; 29.05.2020 11:45:41.0960000; 
+909011; DP-Mastersystem(1) Adresse:71 Sammelstörung; ; 29.05.2020 11:45:41.0960000; 

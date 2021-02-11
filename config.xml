@@ -1,0 +1,12 @@
+<ConditionMonitoring>
+	<initID>
+
+        <Dstate datamode = ".\CSV\mode.csv"
+                dataisdisturbed = ".\CSV\isdisturbed.csv"
+                dataaxismoving =  ".\CSV\isanyaxismoving.csv"/>
+
+        <Drec alarmerec = ".\alarmerecdateien"/>
+
+
+	</initID>
+</ConditionMonitoring>
