@@ -54,11 +54,11 @@ def fillup(df):
 
 def fromat_timestamp_toiso(df):
 
-    df["Alarm-Startzeitpunkt"] = pd.to_datetime(
-        df["Alarm-Startzeitpunkt"], errors="coerce", format = "%Y-%m-%d %H:%M:%S"
+    df["timestamp"] = pd.to_datetime(
+        df["timestamp"], errors="coerce", format = "%Y-%m-%d %H:%M:%S"
     )
 
-    df["Alarm-Startzeitpunkt"] = df["Alarm-Startzeitpunkt"].map(
+    df["timestamp"] = df["timestamp"].map(
         lambda x: x.isoformat()
     )
     return None
@@ -119,7 +119,7 @@ def datamachineid_rec(datastaterel, datarec, machineid2):
         "Alarm-Startzeitpunkt": "1900-07-25T00:00:00",
         "Alarm-Endzeitpunkt": "1900-07-25T00:00:01",
         "machineid": machineid2,
-        "Status": "No_Status_Data",
+        "Status": "No Status Data",
     }
     # append the new row to the df
     df = df.append(new_row, ignore_index=True)

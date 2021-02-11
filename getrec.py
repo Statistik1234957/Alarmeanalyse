@@ -26,7 +26,6 @@ def get_recdata(path):
         )
         df = df.append(d[filename])
 
-
     # sort the df, ascending: Oldest value at the top
     df = df.sort_values(by="Alarm-Startzeitpunkt")
 

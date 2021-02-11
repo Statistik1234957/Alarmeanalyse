@@ -16,6 +16,7 @@ def get_status():
     datadisturbed = pd.read_csv(disturbed_path, sep=";", header=0, low_memory=False)
     dataaxismoving = pd.read_csv(axismoving_path, sep=";", header=0, low_memory=False)
 
+
     # Format the Date column
     datamode[["timestamp", "x"]] = datamode["timestamp"].str.split(".", expand=True)
     datadisturbed[["timestamp", "x"]] = datadisturbed["timestamp"].str.split(".", expand=True)
@@ -48,18 +49,18 @@ def get_status():
         dctreestatus.dtree(d[i])
         df = df.append(d[i])
 
-    # rename the column for integration
-    df = df.rename(columns={"timestamp": "Alarm-Startzeitpunkt"})
-
     # sort the df, ascending: Oldest value at the top -> 2001
-    df = df.sort_values(by="Alarm-Startzeitpunkt")
+    df = df.sort_values(by="timestamp")
 
     #drop the one atrificial created row
-    p = df[df['Alarm-Startzeitpunkt'] == '2001-07-25T00:00:00'].index
+    p = df[df['timestamp'] == '2001-07-25T00:00:00'].index
     df = df.drop(p)
 
     #convert to iso format
     function_collector.fromat_timestamp_toiso(df)
+
+    #rename the column for integration
+    df = df.rename(columns={"timestamp": "Alarm-Startzeitpunkt"})
 
     # slect only the relevant Data
     df = df[["Alarm-Startzeitpunkt","machineid", "Status"]]

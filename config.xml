@@ -7,6 +7,14 @@
 
         <Drec alarmerec = ".\alarmerecdateien"/>
 
+        <Dlog stoplog = ".\StopLog" />
+
+        <elasticsearch elastichost = "localhost"
+                       elasticport = "9200"
+                       elasticurl = "http://localhost:9200"/>
+
+        <kibana kibanaurl = "http://localhost:5601"
+                selectedspace = "alarms"/>
 
 	</initID>
 </ConditionMonitoring>
