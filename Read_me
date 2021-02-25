@@ -1,1 +1,16 @@
+Verwendete Packages: (Manche müssten schon mitgeliefert werden und müssen nicht explizit installiert werden)
+
+
+collections 
+logging
+os
+glob
+xml
+pandas 
+numpy 
+datetime 
+json
+requests
+time
+sqlalchemy 
 
