@@ -1,147 +1,189 @@
-
-" this file contains multiple functions used in the code"
-
 import pandas as pd
 import numpy as np
+from datetime import datetime, timedelta
+import ssl
+import logging
+import sys
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-" 1. Get full dataframe for status_data"
+def ssl_alpn(ca_cert, certfile, certkey):
 
-def datamachineid_state(df1, df2, df3, machineid2):
+    "This function deals with the certificates"
 
-    #Computation of Status by 3 different df's from 3 different files
+    try:
+        ssl_context = ssl.create_default_context()
+        ssl_context.load_verify_locations(cafile=ca_cert)
+        ssl_context.load_cert_chain(certfile=certfile, keyfile=certkey)
 
-    #selects the data at the given machineid (for each Dataframe)
-    dfa = df1[df1["machineid"] == machineid2]
-    dfb = df2[df2["machineid"] == machineid2]
-    dfc = df3[df3["machineid"] == machineid2]
+        return ssl_context
 
-    # append all df's together
-    df = dfa.append([dfb, dfc])
+    except Exception as e:
+        print("exception ssl_alpn()")
+        raise e
 
-    # adds a new row at the top
-    new_row = {
-        "machineid": machineid2,
-        "timestamp": "2001-07-25T00:00:00",
-        "mode": "Automatic",
-        "isdisturbed": False,
-        "isanyaxismoving": False,
-    }
-    #append the new row to the df
-    df = df.append(new_row, ignore_index=True)
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-    # sort the df, ascending: Oldest value at the top -> 2001
-    df = df.sort_values(by="timestamp")
+def createlogger():
+
+    "This function creates a logger"
+
+    logger = logging.getLogger()
+    logger.setLevel(logging.DEBUG)
+    handler = logging.StreamHandler(sys.stdout)
+    log_format = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+    handler.setFormatter(log_format)
+    logger.addHandler(handler)
+
+    return logger
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+def api_time_correction(df):
+
+    "This file converts the times given by the api"
+
+    #list with the columns of the df
+    collist = df.columns.tolist()
+
+    #list with time columns
+    collist_time = ["startTime", "endTime"]
+
+    for col in collist_time:
+
+        if col in collist:
+
+            #microseconds and thus dividision by 1000 needed
+            df[col] = df[col].map(lambda x: datetime.utcfromtimestamp(x / 1000))
+
+            #adjust the time format
+            df[col] = df[col].map(lambda x: x.replace(microsecond=0))
+            df[col] = pd.to_datetime(df[col], errors="coerce", format="%Y-%m-%d %H:%M:%S")
 
     return df
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-" 2. fills up the Dataframe by always picking the cell above for status_data"
+def get_data_for_calculation(df1, df2, df3, machineid,dataname):
 
-def fillup(df):
+    " This Function subsets the relevant data and appends a default row"
 
-    #fill up the missing values and always pick the cell above
-    df["isanyaxismoving"].fillna(method="ffill", inplace=True)
-    df["mode"].fillna(method="ffill", inplace=True)
-    df["isdisturbed"].fillna(method="ffill", inplace=True)
-
-    return None
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-" 3. transforms the timestamp of the status Data to iso format"
-
-def fromat_timestamp_toiso(df):
-
-    df["Alarm-Startzeitpunkt"] = pd.to_datetime(
-        df["Alarm-Startzeitpunkt"], errors="coerce", format = "%Y-%m-%d %H:%M:%S"
-    )
-
-    df["Alarm-Startzeitpunkt"] = df["Alarm-Startzeitpunkt"].map(
-        lambda x: x.isoformat()
-    )
-    return None
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-"1. transform the timestamp  from the Red data"
-
-def format_Alamr_zeit_toiso(df):
-
-
-    df[["Alarm-Startzeitpunkt", "x"]] = df["Alarm-Startzeitpunkt"].str.extract(
-        r"(.{20})(.*)", expand=True
-    )
-    df['Alarm-Startzeitpunkt'] = pd.to_datetime(df['Alarm-Startzeitpunkt'], errors="coerce",
-                                                format=' %d.%m.%Y %H:%M:%S')
-
-    df['Alarm-Startzeitpunkt'] = df['Alarm-Startzeitpunkt'].map(
-        lambda x: x.isoformat()
-    )
-
-    df[["Alarm-Endzeitpunkt", "y"]] = df["Alarm-Endzeitpunkt"].str.extract(
-        r"(.{20})(.*)", expand=True
-    )
-    df['Alarm-Endzeitpunkt'] = pd.to_datetime(df['Alarm-Endzeitpunkt'], errors="coerce",
-                                                format=' %d.%m.%Y %H:%M:%S')
-
-    df['Alarm-Endzeitpunkt'] = df['Alarm-Endzeitpunkt'].map(
-        lambda x: x.isoformat()
-    )
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-"2. combine data_rec and data_state"
-
-
-def datamachineid_rec(datastaterel, datarec, machineid2):
-
-    df = pd.DataFrame()
-
-    #select statedata for the given machineid
-    df_state = datastaterel[datastaterel["machineid"] == machineid2]
-
-    #select recdata for given machineid
-    df_rec = datarec[datarec["machineid"] == machineid2]
+    #selects the data at the given machineid (for each Dataframe)
+    dfa = df1[df1["machineid"] == machineid]
+    dfb = df2[df2["machineid"] == machineid]
+    dfc = df3[df3["machineid"] == machineid]
 
     # append all df's together
-    df = df.append([df_state, df_rec])
+    df = dfa.append([dfb, dfc])
 
-    #filter out empty time rows
-    df = df.dropna(subset=["Alarm-Startzeitpunkt"])
+    if dataname == "state":
+        # adds a new row at the top
+        new_row = {
+            "machineid": machineid,
+            "Alarm-Startzeitpunkt": "1900-07-25 00:00:00",
+            "mode": "Automatic",
+            "isdisturbed": False,
+            "isanyaxismoving": False,
+        }
+    else:
+        new_row = {
+            "Alarm-ID": np.NaN,
+            "Meldung": "start",
+            "Quelle": "start",
+            "Alarm-Startzeitpunkt": "1900-07-25T00:00:00",
+            "Alarm-Endzeitpunkt": "1900-07-25T00:00:01",
+            "machineid": machineid,
+            "Status": "No_Status_Data",
+        }
 
-    new_row = {
-        "Alarm-ID": np.NaN,
-        "Meldung": "start",
-        "Quelle": "start",
-        "Alarm-Startzeitpunkt": "1900-07-25T00:00:00",
-        "Alarm-Endzeitpunkt": "1900-07-25T00:00:01",
-        "machineid": machineid2,
-        "Status": "No_Status_Data",
-    }
-    # append the new row to the df
+    #append the new row to the df
     df = df.append(new_row, ignore_index=True)
 
-    # sort the df, ascending: Oldest value at the top -> 1900
+    # sort the df, ascending: Oldest value at the top
     df = df.sort_values(by="Alarm-Startzeitpunkt", ascending=True)
 
     return df
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-"3. fillup State column"
+def fillup(df,collist):
 
-def fillup_state(df):
+    "This function fills up the missing values in the DF"
 
-    #always fill up with the value above
-    df["Status"].fillna(method="ffill", inplace=True)
+    #fill up the missing values and always pick the cell above
+    for col in collist:
+        df[col].fillna(method="ffill", inplace=True)
 
     return None
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+def format_timestamp_toiso(df,time_collist,format,stringsplit):
+
+    "This function transforms the timestamp of the status Data to iso format"
+
+    for col in time_collist:
+
+        if stringsplit == True:
+
+            df[[col, "x"]] = df[col].str.extract(r"(.{20})(.*)", expand=True)
+            df.drop("x",axis = 1,inplace = True)
+
+        else:
+            None
+
+        # convert the column to datetime object, if fails: NA
+        df[col] = pd.to_datetime(df[col], errors="coerce",format=format)
+
+        # convert to isoformat
+        df[col] = df[col].map(lambda x: x.isoformat())
+
+    return df
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+def data_cleaning(df,collist,sortcolname):
+
+    "This Function removes duplicates and sets a new index"
+
+    #drop empty columns
+    df.dropna(subset=collist, inplace=True,axis = 0)
+
+    # sort the df, ascending: Oldest value at the top
+    df = df.sort_values(by=sortcolname)
+
+    #remove NaT values from the primary Time column
+    df = df[df[sortcolname].notnull()]
+    df = df[~df[sortcolname].str.contains('NaT')]
+
+    # reset the index of the df
+    df.reset_index(inplace=True, drop=True)
+
+    #get the mean date
+    critical_value = df[sortcolname][len(df[sortcolname]) // 2]
+
+    critical_value1 = datetime.strptime(critical_value,'%Y-%m-%dT%H:%M:%S') - timedelta(days=360)
+    critical_value1 = critical_value1.strftime('%Y-%m-%dT%H:%M:%S')
+
+    critical_value2 = datetime.strptime(critical_value, '%Y-%m-%dT%H:%M:%S') + timedelta(days=360)
+    critical_value2 = critical_value2.strftime('%Y-%m-%dT%H:%M:%S')
+
+    # filter out cracy values
+    df = df[df[sortcolname] >= critical_value1]
+    df = df[df[sortcolname] <= critical_value2]
+
+    # reset the index of the df
+    df.reset_index(inplace=True, drop=True)
+
+    # drop duplicate rows from df
+    df.drop_duplicates(inplace=True)
+
+    return df
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+
+
+
 
 
 

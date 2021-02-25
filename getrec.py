@@ -4,15 +4,17 @@ import glob
 import function_collector
 from config_utils import ConfigUtils
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+def get_rec_from_file(path):
 
-def get_recdata(path):
+    "This Function import the rec_data from a given path"
 
+    # create an empty dict and DF
     d = {}
     df = pd.DataFrame()
 
     # import each file and combine them to a  dataframe
     for filename in glob.glob(os.path.join(path, "*.rec.csv")):
+
         d[filename] = pd.read_csv(
             filename,
             sep=";",
@@ -24,27 +26,22 @@ def get_recdata(path):
                 "Alarm-Endzeitpunkt",
             ],
         )
+        #append to the DF combining all the Data
         df = df.append(d[filename])
 
-
-    # sort the df, ascending: Oldest value at the top
-    df = df.sort_values(by="Alarm-Startzeitpunkt")
+    # get the columns with datetime information
+    time_collist = ["Alarm-Startzeitpunkt","Alarm-Endzeitpunkt"]
 
     # convert to iso format
-    function_collector.format_Alamr_zeit_toiso(df)
-    df = df.drop(["y", "x"], axis=1)
-
-    # reset the index of the df
-    df.reset_index(inplace=True, drop=True)
-
-    # drop duplicate rows from df
-    df.drop_duplicates(inplace=True)
+    df = function_collector.format_timestamp_toiso(df,time_collist,format= ' %d.%m.%Y %H:%M:%S',
+                                              stringsplit=True)
 
     return df
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-def get_rec2(machine):
+def get_rec_per_machine(machine):
+
+    "This Function gets you all the rec files for one specific machine"
 
     # gets the paths from the Files from the config file
     cfg = ConfigUtils()
@@ -54,38 +51,42 @@ def get_rec2(machine):
     fullpath = first_path + machine
 
     # gets the data from the path
-    df = get_recdata(fullpath)
+    df = get_rec_from_file(fullpath)
 
     # adds the machineid col to the dataframe
-    m_list = machine.split("\G", 1)[1]
-    m_names = "G" + m_list
-    df["machineid"] = m_names
+    df["machineid"] = machine
 
     return df
 
 
 def getrec_total(machinelist):
 
+    "This Function gets you all the rec files for all machines"
+
+    # create an empty dict and DF to store the Data
     dict_rec = {}
     df = pd.DataFrame()
 
     #combines data of all machine id's
     for i in range(len(machinelist)):
-        dict_rec[i] = get_rec2(machinelist[i])
+
+        #get the rec data for one machine
+        dict_rec[i] = get_rec_per_machine(machinelist[i])
+
+        # append the DF to the DF combining all the Data
         df = df.append(dict_rec[i])
 
-    #get rid of crazy data
+    #only want numeric alarm Ids: NA if fails
     df["Alarm-ID"] = pd.to_numeric(df["Alarm-ID"],errors= "coerce")
-    df = df.dropna(subset=["Alarm-ID"])
-    df = df.dropna(subset=["Alarm-Startzeitpunkt"])
 
-    df = df[df["Alarm-ID"].notna()]
-    df = df[df["Alarm-Startzeitpunkt"].notna()]
+    #cols for removing na values
+    collist = ["Alarm-ID","Alarm-Startzeitpunkt"]
 
-    #sort values
-    df = df.sort_values(by="Alarm-Startzeitpunkt", ascending=True)
+    # clean the data for saving
+    df = function_collector.data_cleaning(df,collist,"Alarm-Startzeitpunkt")
 
     return df
+
 
 
 

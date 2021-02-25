@@ -5,54 +5,39 @@ import function_collector
 
 def get_recws(machinelist):
 
-    #imports the status_data
-    datastaterel = getstate.get_status()
+    "This function combines the rac Data with the State Data"
 
-    #imports the rec_data
-
-    data_rec = getrec.getrec_total(machinelist)
-
-    #machineid of datastaterel
-    m_state = datastaterel["machineid"].unique().tolist()
-
-    #machineeid of data_rec
-    m_rec = []
-
-    for machine in machinelist:
-
-        m_list = machine.split("\G", 1)[1]
-        m_names = "G" + m_list
-        m_rec = m_rec + [m_names]
-
-    #get the intersection of both lists
-    total_list = list(set(m_state) & set(m_rec))
-
-    # for each machineid and then combine the dataframe
+    # create an empty dict and DF to store the Data
     d = {}
     df = pd.DataFrame()
+    df_empty = pd.DataFrame(columns= ["machineid"])
 
-    for i in range(len(total_list)):
+    # get the rec data
+    data_rec = getrec.getrec_total(machinelist)
 
-        d[i] = function_collector.datamachineid_rec(datastaterel,data_rec,total_list[i])
-        function_collector.fillup_state(d[i])
+    #get the state Data
+    datastaterel = getstate.get_status()
+
+    for i in range(len(machinelist)):
+
+        # get a list of the columns
+        collist_fill = ["Status"]
+
+        # do the calculations
+        d[i] = function_collector.get_data_for_calculation(datastaterel, data_rec, df_empty, machinelist[i],
+                                                           dataname="rec")
+
+        # fill up those columns
+        function_collector.fillup(d[i],collist_fill)
+
+        # append the DF to the DF combining all the Data
         df = df.append(d[i])
 
-    # filter out cracy values
-    df = df[df["Alarm-Startzeitpunkt"] >= "2019-02-12T07:33:39"]
-    df = df[df["Alarm-Startzeitpunkt"] <= "2025-12-10T07:33:44"]
+    #collist for checking
+    collist = ["Status","Alarm-ID","Alarm-Startzeitpunkt"]
 
-    #filter out statedata and new created row
-    df = df[df["Alarm-ID"].notna()]
-    df = df[df["Alarm-Startzeitpunkt"].notna()]
-
-    # sort the df, ascending: Oldest value at the top
-    df = df.sort_values(by="Alarm-Startzeitpunkt")
-
-    # reset the index of the df
-    df.reset_index(inplace=True, drop=True)
-
-    # drop duplicate rows from df
-    df.drop_duplicates(inplace=True)
+    # clean the data for saveness
+    df = function_collector.data_cleaning(df,collist,"Alarm-Startzeitpunkt")
 
     return df
 

@@ -1,9 +1,9 @@
-
-" This file contains the decision tree for the status computation"
-
 import numpy as np
 
 def dtree(df):
+
+    " This function contains the decision tree for the status computation"
+
     conditions = [
         (df["mode"] == "Automatic") & (df["isanyaxismoving"] == True),
         (df["mode"] == "Automatic")
@@ -28,7 +28,8 @@ def dtree(df):
         "Stoerung Manuell",
         "Ruhezustand Manuell",
     ]
+    default = "No_Status_Data"
 
-    df["Status"] = np.select(conditions, values)
+    df["Status"] = np.select(conditions, values,default)
 
     return df
