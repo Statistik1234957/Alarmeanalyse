@@ -9,6 +9,8 @@ def get_state_api(starttime,endtime,bearer_token,machineid,data_name):
 
     " This function contains the api connection "
 
+    #************* Not ready yet, urls are False and credentials are missing, adjust the rest accordingly
+
     # api needs iso time formatted string
     starttime_iso = starttime.isoformat() + ".000Z"
     endtime_iso = endtime.isoformat() + ".000Z"

@@ -10,25 +10,25 @@ def get_status():
 
     " This function computes the state Data "
 
+    #***** not ready yet
     #get the api constants
-    cfg = ConfigUtils()
-    email = cfg.read_cfgvalue("API", "email")
-    password = cfg.read_cfgvalue("API", "password")
-    login_url = cfg.read_cfgvalue("API", "qarclogin")
+    #cfg = ConfigUtils()
+    #email = cfg.read_cfgvalue("API", "email")
+    #password = cfg.read_cfgvalue("API", "password")
+    #login_url = cfg.read_cfgvalue("API", "qarclogin")
 
     # get the bearer token
-    bearer_token = get_bearer_token.get_bearer_token(email=email, password=password, loginurl=login_url)
+    #bearer_token = get_bearer_token.get_bearer_token(email=email, password=password, loginurl=login_url)
 
-    # set the timespan ################# -> adjust
-    endtime = datetime.utcnow().replace(microsecond=0)
-    starttime = endtime - timedelta(minutes=360)
+    # set the timespan
+    #endtime = datetime.utcnow().replace(microsecond=0)
+    #starttime = endtime - timedelta(minutes=360)
 
     #get the values ################# -> adjust
     #df_mode = get_state_api.get_state_api(starttime,endtime,bearer_token,"G352-2114","mode")
     #df_isdisturbed = get_state_api.get_state_api(starttime,endtime,bearer_token,"G352-2114","isdisturbed")
     #df_anyaxismoving = get_state_api.get_state_api(starttime,endtime,bearer_token,"G352-2114","isanyaxismoving")
 
-#############
     cfg = ConfigUtils()
     mode_path = cfg.read_cfgvalue("Dstate", "datamode")
     disturbed_path = cfg.read_cfgvalue("Dstate", "dataisdisturbed")
@@ -53,8 +53,6 @@ def get_status():
     df_mode = df_mode.drop(["x", "y"], axis=1)
     df_isdisturbed = df_isdisturbed.drop(["x", "y"], axis=1)
     df_anyaxismoving = df_anyaxismoving.drop(["x", "y"], axis=1)
-
-###########
 
     # rename the column for integration
     df_mode = df_mode.rename(columns={"timestamp": "Alarm-Startzeitpunkt"})

@@ -8,6 +8,7 @@ LOGGER = logging.getLogger(__name__)
 
 
 class ConfigUtils:
+
     """Basic configuration file utilities class."""
 
     def __init__(self, folder: str = "utils",
