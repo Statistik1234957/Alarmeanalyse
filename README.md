@@ -21,9 +21,9 @@ Auzuführende Datei: get_data_into_log_file.py
 
 In der Config Datei stehen Informationen bzgl des Aufenhaltorts der CSV Dateien ,sowie Datenbank und APi Informationen
 
-database.py, get_bearer_token.py , get_state_api.py , get_state_db.py ... Alles Dateien, die noch nicht aufgefrufen werden, Prinzipiell die Dateien für eine dynamische Anbindung
+database.py, get_bearer_token.py , get_state_api.py , get_state_db.py: Alles Dateien, die noch nicht aufgefrufen werden, Prinzipiell die generellen Konstrukte für eine dynamische Anbindung.
 
-Code Aufbau : Siehe Drawio Diagramm. (Auch auf Confluence verfügbar : funktioniert gerade nicht)
+Code Aufbau : Siehe Confluence
 
 Links: 
 
