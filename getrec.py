@@ -12,22 +12,26 @@ def get_rec_from_file(path):
     d = {}
     df = pd.DataFrame()
 
-    # import each file and combine them to a  dataframe
-    for filename in glob.glob(os.path.join(path, "*.rec.csv")):
+    try:
+        # import each file and combine them to a  dataframe
+        for filename in glob.glob(os.path.join(path, "*.rec.csv")):
+            d[filename] = pd.read_csv(
+                filename,
+                sep=";",
+                names=[
+                    "Alarm-ID",
+                    "Meldung",
+                    "Quelle",
+                    "Alarm-Startzeitpunkt",
+                    "Alarm-Endzeitpunkt",
+                ],
+            )
+            # append to the DF combining all the Data
+            df = df.append(d[filename])
 
-        d[filename] = pd.read_csv(
-            filename,
-            sep=";",
-            names=[
-                "Alarm-ID",
-                "Meldung",
-                "Quelle",
-                "Alarm-Startzeitpunkt",
-                "Alarm-Endzeitpunkt",
-            ],
-        )
-        #append to the DF combining all the Data
-        df = df.append(d[filename])
+    except Exception as e:
+        print(e)
+        df = pd.DataFrame(columns=["Alarm-ID","Meldung","Quelle","Alarm-Startzeitpunkt","Alarm-Endzeitpunkt"])
 
     # get the columns with datetime information
     time_collist = ["Alarm-Startzeitpunkt","Alarm-Endzeitpunkt"]
